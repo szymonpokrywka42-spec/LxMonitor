@@ -1,0 +1,17 @@
+{
+  "python_version": "3.14",
+  "python_soabi": "cpython-314-x86_64-linux-gnu",
+  "system": "linux",
+  "machine": "x86_64",
+  "hashes": {
+    "bt.so": "5c81eaa1af58dc82b6bdf328492323a9d8f3ed12406bf46b65c08ab72f135f07",
+    "cpu.so": "6f99c61fc94e54fbd77da2f7db293c74c20c45eb7782a596a93b5f5dcfdf7162",
+    "disc.so": "2a75388c7f142d240d5097ebfd16f17468d61ef7b04fdf242cb533dd803e3b67",
+    "gpu_others.so": "058a5d0a68748eef45dccb7ba350ed1a0393f7f3582272f58e364c09c4c261c7",
+    "gpu_temp.so": "439edc08d5388c09865635b2e068d0dfc0185957203d776e6ac6d2c6c4f7a415",
+    "net.so": "0efcbd73a05d73798f12be86dd9f97516673c83e68577344799dbe1b43e7c147",
+    "privilege.so": "faf5cee7ea675a1dda9999fdd6c25d58e3a2973d90658f46df5a854f5c53144a",
+    "psu.so": "5ca4eea77127b4e2462a49b524d48b114f53f3b88950ae2f9de71191fb27d709",
+    "ram.so": "caaabf22baa30b0a057b98826a1a3a72f4cb6938a0831f4d10dc7cdfb86b95e3"
+  }
+}

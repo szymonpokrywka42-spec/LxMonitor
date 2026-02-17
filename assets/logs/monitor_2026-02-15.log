@@ -1,0 +1,1050 @@
+[09:57:44] [SYSTEM] LxMonitor Console Logic Initialized
+[09:57:44] [BOOT] CppHandler1: Discovery & Linker module online.
+[09:57:44] [BOOT] CppHandler2: Execution Manager ready.
+[09:57:44] [DEBUG] Starting hardware auto-discovery...
+[09:57:44] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[09:57:44] [INFO] Hardware: GPU temperature sensor found.
+[09:57:44] [INFO] Hardware: Network interfaces detected.
+[09:57:44] [INFO] Hardware: Bluetooth adapters detected.
+[09:57:44] [INFO] Hardware: Power telemetry paths detected.
+[09:57:44] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[09:57:44] [SUCCESS] Linked engine: cpu [OK]
+[09:57:44] [SUCCESS] Linked engine: ram [OK]
+[09:57:44] [SUCCESS] Linked engine: disc [OK]
+[09:57:44] [SUCCESS] Linked engine: gpu_others [OK]
+[09:57:44] [SUCCESS] Linked engine: gpu_temp [OK]
+[09:57:44] [SUCCESS] Linked engine: net [OK]
+[09:57:44] [SUCCESS] Linked engine: bt [OK]
+[09:57:44] [SUCCESS] Linked engine: psu [OK]
+[09:57:44] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[09:57:44] [SUCCESS] Smoke check: core engines OK.
+[09:57:44] [INFO] Smoke check: cpu.get_usage OK
+[09:57:44] [INFO] Smoke check: ram.get_usage OK
+[09:57:44] [INFO] Smoke check: disc.get_all_usage OK
+[09:57:44] [INFO] Theme mode 'system' resolved to 'dark'.
+[09:57:44] [SUCCESS] Theme 'dark' applied (mode: system).
+[09:57:44] [SUCCESS] Real-time data stream started [120ms]
+[09:57:44] [INFO] Power mode 'auto' resolved to 'desktop'.
+[09:57:44] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[09:57:44] [DEBUG] PSU debug: total=62.12W source=components | categories[gpu=62.12W] | sensors[gpu:card1:power1=31.06W, hwmon:amdgpu:PPT=31.06W]
+[09:57:44] [INFO] [BOOT] System Ready.
+[09:57:46] [DEBUG] PSU debug: total=64.42W source=components | categories[gpu=64.42W] | sensors[gpu:card1:power1=32.21W, hwmon:amdgpu:PPT=32.21W]
+[09:57:46] [INFO] UI: Console shown.
+[09:57:48] [DEBUG] PSU debug: total=62.32W source=components | categories[gpu=62.32W] | sensors[hwmon:amdgpu:PPT=31.16W, gpu:card1:power1=31.16W]
+[09:57:50] [DEBUG] PSU debug: total=60.44W source=components | categories[gpu=60.44W] | sensors[hwmon:amdgpu:PPT=30.22W, gpu:card1:power1=30.22W]
+[09:57:52] [DEBUG] PSU debug: total=64.17W source=components | categories[gpu=64.17W] | sensors[hwmon:amdgpu:PPT=32.09W, gpu:card1:power1=32.08W]
+[09:57:54] [DEBUG] PSU debug: total=60.25W source=components | categories[gpu=60.25W] | sensors[gpu:card1:power1=30.12W, hwmon:amdgpu:PPT=30.12W]
+[09:57:56] [DEBUG] PSU debug: total=60.26W source=components | categories[gpu=60.26W] | sensors[gpu:card1:power1=30.13W, hwmon:amdgpu:PPT=30.13W]
+[09:57:58] [DEBUG] PSU debug: total=66.49W source=components | categories[gpu=66.49W] | sensors[gpu:card1:power1=33.25W, hwmon:amdgpu:PPT=33.25W]
+[09:58:00] [DEBUG] PSU debug: total=64.24W source=components | categories[gpu=64.24W] | sensors[gpu:card1:power1=32.12W, hwmon:amdgpu:PPT=32.12W]
+[09:58:02] [DEBUG] PSU debug: total=60.33W source=components | categories[gpu=60.33W] | sensors[hwmon:amdgpu:PPT=30.17W, gpu:card1:power1=30.16W]
+[09:58:04] [DEBUG] PSU debug: total=62.10W source=components | categories[gpu=62.10W] | sensors[gpu:card1:power1=31.05W, hwmon:amdgpu:PPT=31.05W]
+[09:58:06] [DEBUG] PSU debug: total=62.03W source=components | categories[gpu=62.03W] | sensors[gpu:card1:power1=31.02W, hwmon:amdgpu:PPT=31.02W]
+[09:58:09] [DEBUG] PSU debug: total=64.39W source=components | categories[gpu=64.39W] | sensors[gpu:card1:power1=32.19W, hwmon:amdgpu:PPT=32.19W]
+[09:58:11] [DEBUG] PSU debug: total=60.49W source=components | categories[gpu=60.49W] | sensors[hwmon:amdgpu:PPT=30.25W, gpu:card1:power1=30.24W]
+[09:58:13] [DEBUG] PSU debug: total=62.50W source=components | categories[gpu=62.50W] | sensors[gpu:card1:power1=31.25W, hwmon:amdgpu:PPT=31.25W]
+[09:58:15] [DEBUG] PSU debug: total=62.45W source=components | categories[gpu=62.45W] | sensors[gpu:card1:power1=31.22W, hwmon:amdgpu:PPT=31.22W]
+[10:03:23] [SYSTEM] LxMonitor Console Logic Initialized
+[10:03:23] [BOOT] CppHandler1: Discovery & Linker module online.
+[10:03:23] [BOOT] CppHandler2: Execution Manager ready.
+[10:03:23] [DEBUG] Starting hardware auto-discovery...
+[10:03:23] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[10:03:23] [INFO] Hardware: GPU temperature sensor found.
+[10:03:23] [INFO] Hardware: Network interfaces detected.
+[10:03:23] [INFO] Hardware: Bluetooth adapters detected.
+[10:03:23] [INFO] Hardware: Power telemetry paths detected.
+[10:03:23] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[10:03:23] [SUCCESS] Linked engine: cpu [OK]
+[10:03:23] [SUCCESS] Linked engine: ram [OK]
+[10:03:23] [SUCCESS] Linked engine: disc [OK]
+[10:03:23] [SUCCESS] Linked engine: gpu_others [OK]
+[10:03:23] [SUCCESS] Linked engine: gpu_temp [OK]
+[10:03:23] [SUCCESS] Linked engine: net [OK]
+[10:03:23] [SUCCESS] Linked engine: bt [OK]
+[10:03:23] [SUCCESS] Linked engine: psu [OK]
+[10:03:23] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[10:03:23] [SUCCESS] Smoke check: core engines OK.
+[10:03:23] [INFO] Smoke check: cpu.get_usage OK
+[10:03:23] [INFO] Smoke check: ram.get_usage OK
+[10:03:23] [INFO] Smoke check: disc.get_all_usage OK
+[10:03:23] [INFO] Theme mode 'system' resolved to 'dark'.
+[10:03:23] [SUCCESS] Theme 'dark' applied (mode: system).
+[10:03:23] [SUCCESS] Real-time data stream started [120ms]
+[10:03:23] [INFO] Power mode 'auto' resolved to 'desktop'.
+[10:03:23] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[10:03:23] [DEBUG] PSU debug: total=31.06W source=components | categories[gpu=31.06W] | sensors[hwmon:amdgpu:PPT=31.06W]
+[10:03:23] [INFO] [BOOT] System Ready.
+[10:03:25] [DEBUG] PSU debug: total=32.11W source=components | categories[gpu=32.11W] | sensors[hwmon:amdgpu:PPT=32.11W]
+[10:03:27] [DEBUG] PSU debug: total=30.21W source=components | categories[gpu=30.21W] | sensors[hwmon:amdgpu:PPT=30.21W]
+[10:03:29] [DEBUG] PSU debug: total=30.02W source=components | categories[gpu=30.02W] | sensors[hwmon:amdgpu:PPT=30.02W]
+[10:03:31] [DEBUG] PSU debug: total=30.03W source=components | categories[gpu=30.03W] | sensors[hwmon:amdgpu:PPT=30.03W]
+[10:03:33] [DEBUG] PSU debug: total=31.07W source=components | categories[gpu=31.07W] | sensors[hwmon:amdgpu:PPT=31.07W]
+[10:03:35] [DEBUG] PSU debug: total=31.04W source=components | categories[gpu=31.04W] | sensors[hwmon:amdgpu:PPT=31.04W]
+[10:03:37] [DEBUG] PSU debug: total=31.19W source=components | categories[gpu=31.19W] | sensors[hwmon:amdgpu:PPT=31.19W]
+[10:03:39] [DEBUG] PSU debug: total=31.21W source=components | categories[gpu=31.21W] | sensors[hwmon:amdgpu:PPT=31.21W]
+[10:03:41] [DEBUG] PSU debug: total=30.24W source=components | categories[gpu=30.24W] | sensors[hwmon:amdgpu:PPT=30.24W]
+[10:03:44] [DEBUG] PSU debug: total=30.04W source=components | categories[gpu=30.04W] | sensors[hwmon:amdgpu:PPT=30.04W]
+[10:03:46] [DEBUG] PSU debug: total=30.06W source=components | categories[gpu=30.06W] | sensors[hwmon:amdgpu:PPT=30.06W]
+[15:39:55] [SYSTEM] LxMonitor Console Logic Initialized
+[15:39:55] [BOOT] CppHandler1: Discovery & Linker module online.
+[15:39:55] [BOOT] CppHandler2: Execution Manager ready.
+[15:39:55] [DEBUG] Starting hardware auto-discovery...
+[15:39:55] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[15:39:55] [INFO] Hardware: GPU temperature sensor found.
+[15:39:55] [INFO] Hardware: Network interfaces detected.
+[15:39:55] [INFO] Hardware: Bluetooth adapters detected.
+[15:39:55] [INFO] Hardware: Power telemetry paths detected.
+[15:39:55] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[15:39:55] [SUCCESS] Linked engine: cpu [OK]
+[15:39:55] [SUCCESS] Linked engine: ram [OK]
+[15:39:55] [SUCCESS] Linked engine: disc [OK]
+[15:39:55] [SUCCESS] Linked engine: gpu_others [OK]
+[15:39:55] [SUCCESS] Linked engine: gpu_temp [OK]
+[15:39:55] [SUCCESS] Linked engine: net [OK]
+[15:39:55] [SUCCESS] Linked engine: bt [OK]
+[15:39:55] [SUCCESS] Linked engine: psu [OK]
+[15:39:55] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[15:39:55] [SUCCESS] Smoke check: core engines OK.
+[15:39:55] [INFO] Smoke check: cpu.get_usage OK
+[15:39:55] [INFO] Smoke check: ram.get_usage OK
+[15:39:55] [INFO] Smoke check: disc.get_all_usage OK
+[15:39:55] [INFO] Theme mode 'system' resolved to 'dark'.
+[15:39:56] [SUCCESS] Theme 'dark' applied (mode: system).
+[15:39:56] [SUCCESS] Real-time data stream started [120ms]
+[15:39:56] [INFO] Power mode 'auto' resolved to 'desktop'.
+[15:39:56] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[15:39:56] [DEBUG] PSU debug: total=29.25W source=components | categories[gpu=29.25W] | sensors[hwmon:amdgpu:PPT=29.25W]
+[15:39:56] [INFO] [BOOT] System Ready.
+[15:39:58] [DEBUG] PSU debug: total=29.07W source=components | categories[gpu=29.07W] | sensors[hwmon:amdgpu:PPT=29.07W]
+[15:40:00] [DEBUG] PSU debug: total=26.10W source=components | categories[gpu=26.10W] | sensors[hwmon:amdgpu:PPT=26.10W]
+[15:40:02] [DEBUG] PSU debug: total=26.09W source=components | categories[gpu=26.09W] | sensors[hwmon:amdgpu:PPT=26.09W]
+[15:40:04] [DEBUG] PSU debug: total=26.13W source=components | categories[gpu=26.13W] | sensors[hwmon:amdgpu:PPT=26.13W]
+[15:40:06] [DEBUG] PSU debug: total=27.00W source=components | categories[gpu=27.00W] | sensors[hwmon:amdgpu:PPT=27.00W]
+[15:40:08] [DEBUG] PSU debug: total=26.22W source=components | categories[gpu=26.22W] | sensors[hwmon:amdgpu:PPT=26.22W]
+[15:40:10] [DEBUG] PSU debug: total=26.22W source=components | categories[gpu=26.22W] | sensors[hwmon:amdgpu:PPT=26.22W]
+[15:40:12] [DEBUG] PSU debug: total=27.13W source=components | categories[gpu=27.13W] | sensors[hwmon:amdgpu:PPT=27.13W]
+[15:40:14] [DEBUG] PSU debug: total=26.14W source=components | categories[gpu=26.14W] | sensors[hwmon:amdgpu:PPT=26.14W]
+[15:40:16] [DEBUG] PSU debug: total=26.18W source=components | categories[gpu=26.18W] | sensors[hwmon:amdgpu:PPT=26.18W]
+[15:40:19] [DEBUG] PSU debug: total=26.21W source=components | categories[gpu=26.21W] | sensors[hwmon:amdgpu:PPT=26.21W]
+[15:40:21] [DEBUG] PSU debug: total=26.18W source=components | categories[gpu=26.18W] | sensors[hwmon:amdgpu:PPT=26.18W]
+[15:40:23] [DEBUG] PSU debug: total=26.16W source=components | categories[gpu=26.16W] | sensors[hwmon:amdgpu:PPT=26.16W]
+[15:40:25] [DEBUG] PSU debug: total=28.15W source=components | categories[gpu=28.15W] | sensors[hwmon:amdgpu:PPT=28.15W]
+[15:40:27] [DEBUG] PSU debug: total=27.11W source=components | categories[gpu=27.11W] | sensors[hwmon:amdgpu:PPT=27.11W]
+[15:40:29] [DEBUG] PSU debug: total=26.06W source=components | categories[gpu=26.06W] | sensors[hwmon:amdgpu:PPT=26.06W]
+[15:40:31] [DEBUG] PSU debug: total=26.16W source=components | categories[gpu=26.16W] | sensors[hwmon:amdgpu:PPT=26.16W]
+[15:40:33] [DEBUG] PSU debug: total=27.20W source=components | categories[gpu=27.20W] | sensors[hwmon:amdgpu:PPT=27.20W]
+[15:46:01] [SYSTEM] LxMonitor Console Logic Initialized
+[15:46:01] [BOOT] CppHandler1: Discovery & Linker module online.
+[15:46:01] [BOOT] CppHandler2: Execution Manager ready.
+[15:46:01] [DEBUG] Starting hardware auto-discovery...
+[15:46:01] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[15:46:01] [INFO] Hardware: GPU temperature sensor found.
+[15:46:01] [INFO] Hardware: Network interfaces detected.
+[15:46:01] [INFO] Hardware: Bluetooth adapters detected.
+[15:46:01] [INFO] Hardware: Power telemetry paths detected.
+[15:46:01] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[15:46:01] [SUCCESS] Linked engine: cpu [OK]
+[15:46:01] [SUCCESS] Linked engine: ram [OK]
+[15:46:01] [SUCCESS] Linked engine: disc [OK]
+[15:46:01] [SUCCESS] Linked engine: gpu_others [OK]
+[15:46:01] [SUCCESS] Linked engine: gpu_temp [OK]
+[15:46:01] [SUCCESS] Linked engine: net [OK]
+[15:46:01] [SUCCESS] Linked engine: bt [OK]
+[15:46:01] [SUCCESS] Linked engine: psu [OK]
+[15:46:01] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[15:46:01] [SUCCESS] Smoke check: core engines OK.
+[15:46:01] [INFO] Smoke check: cpu.get_usage OK
+[15:46:01] [INFO] Smoke check: ram.get_usage OK
+[15:46:01] [INFO] Smoke check: disc.get_all_usage OK
+[15:46:01] [INFO] Theme mode 'system' resolved to 'dark'.
+[15:46:01] [SUCCESS] Theme 'dark' applied (mode: system).
+[15:46:01] [SUCCESS] Real-time data stream started [120ms]
+[15:46:01] [INFO] Power mode 'auto' resolved to 'desktop'.
+[15:46:01] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[15:46:01] [DEBUG] PSU debug: total=30.20W source=components | categories[gpu=30.20W] | sensors[hwmon:amdgpu:PPT=30.20W]
+[15:46:02] [INFO] [BOOT] System Ready.
+[15:46:03] [DEBUG] PSU debug: total=27.10W source=components | categories[gpu=27.10W] | sensors[hwmon:amdgpu:PPT=27.10W]
+[15:46:05] [DEBUG] PSU debug: total=29.03W source=components | categories[gpu=29.03W] | sensors[hwmon:amdgpu:PPT=29.03W]
+[15:46:07] [DEBUG] PSU debug: total=27.17W source=components | categories[gpu=27.17W] | sensors[hwmon:amdgpu:PPT=27.17W]
+[15:46:09] [DEBUG] PSU debug: total=26.21W source=components | categories[gpu=26.21W] | sensors[hwmon:amdgpu:PPT=26.21W]
+[15:46:11] [DEBUG] PSU debug: total=28.23W source=components | categories[gpu=28.23W] | sensors[hwmon:amdgpu:PPT=28.23W]
+[15:46:13] [DEBUG] PSU debug: total=30.24W source=components | categories[gpu=30.24W] | sensors[hwmon:amdgpu:PPT=30.24W]
+[15:49:09] [SYSTEM] LxMonitor Console Logic Initialized
+[15:49:09] [BOOT] CppHandler1: Discovery & Linker module online.
+[15:49:09] [BOOT] CppHandler2: Execution Manager ready.
+[15:49:09] [DEBUG] Starting hardware auto-discovery...
+[15:49:09] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[15:49:09] [INFO] Hardware: GPU temperature sensor found.
+[15:49:09] [INFO] Hardware: Network interfaces detected.
+[15:49:09] [INFO] Hardware: Bluetooth adapters detected.
+[15:49:09] [INFO] Hardware: Power telemetry paths detected.
+[15:49:09] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[15:49:09] [SUCCESS] Linked engine: cpu [OK]
+[15:49:09] [SUCCESS] Linked engine: ram [OK]
+[15:49:09] [SUCCESS] Linked engine: disc [OK]
+[15:49:09] [SUCCESS] Linked engine: gpu_others [OK]
+[15:49:09] [SUCCESS] Linked engine: gpu_temp [OK]
+[15:49:09] [SUCCESS] Linked engine: net [OK]
+[15:49:09] [SUCCESS] Linked engine: bt [OK]
+[15:49:09] [SUCCESS] Linked engine: psu [OK]
+[15:49:09] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[15:49:09] [SUCCESS] Smoke check: core engines OK.
+[15:49:09] [INFO] Smoke check: cpu.get_usage OK
+[15:49:09] [INFO] Smoke check: ram.get_usage OK
+[15:49:09] [INFO] Smoke check: disc.get_all_usage OK
+[15:49:09] [INFO] Theme mode 'system' resolved to 'dark'.
+[15:49:09] [SUCCESS] Theme 'dark' applied (mode: system).
+[15:49:09] [SUCCESS] Real-time data stream started [120ms]
+[15:49:09] [INFO] Power mode 'auto' resolved to 'desktop'.
+[15:49:09] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[15:49:10] [DEBUG] PSU debug: total=26.23W source=components | categories[gpu=26.23W] | sensors[hwmon:amdgpu:PPT=26.23W]
+[15:49:10] [INFO] [BOOT] System Ready.
+[15:49:12] [DEBUG] PSU debug: total=28.08W source=components | categories[gpu=28.08W] | sensors[hwmon:amdgpu:PPT=28.08W]
+[15:50:19] [SYSTEM] LxMonitor Console Logic Initialized
+[15:50:19] [BOOT] CppHandler1: Discovery & Linker module online.
+[15:50:19] [BOOT] CppHandler2: Execution Manager ready.
+[15:50:19] [DEBUG] Starting hardware auto-discovery...
+[15:50:19] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[15:50:19] [INFO] Hardware: GPU temperature sensor found.
+[15:50:19] [INFO] Hardware: Network interfaces detected.
+[15:50:19] [INFO] Hardware: Bluetooth adapters detected.
+[15:50:19] [INFO] Hardware: Power telemetry paths detected.
+[15:50:19] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[15:50:19] [SUCCESS] Linked engine: cpu [OK]
+[15:50:19] [SUCCESS] Linked engine: ram [OK]
+[15:50:19] [SUCCESS] Linked engine: disc [OK]
+[15:50:19] [SUCCESS] Linked engine: gpu_others [OK]
+[15:50:19] [SUCCESS] Linked engine: gpu_temp [OK]
+[15:50:19] [SUCCESS] Linked engine: net [OK]
+[15:50:19] [SUCCESS] Linked engine: bt [OK]
+[15:50:19] [SUCCESS] Linked engine: psu [OK]
+[15:50:19] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[15:50:19] [SUCCESS] Smoke check: core engines OK.
+[15:50:19] [INFO] Smoke check: cpu.get_usage OK
+[15:50:19] [INFO] Smoke check: ram.get_usage OK
+[15:50:19] [INFO] Smoke check: disc.get_all_usage OK
+[15:50:19] [INFO] Theme mode 'system' resolved to 'dark'.
+[15:50:19] [SUCCESS] Theme 'dark' applied (mode: system).
+[15:50:19] [SUCCESS] Real-time data stream started [120ms]
+[15:50:19] [INFO] Power mode 'auto' resolved to 'desktop'.
+[15:50:19] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[15:50:20] [DEBUG] PSU debug: total=29.13W source=components | categories[gpu=29.13W] | sensors[hwmon:amdgpu:PPT=29.13W]
+[15:50:20] [INFO] [BOOT] System Ready.
+[15:50:22] [DEBUG] PSU debug: total=27.10W source=components | categories[gpu=27.10W] | sensors[hwmon:amdgpu:PPT=27.10W]
+[15:53:11] [SYSTEM] LxMonitor Console Logic Initialized
+[15:53:11] [BOOT] CppHandler1: Discovery & Linker module online.
+[15:53:11] [BOOT] CppHandler2: Execution Manager ready.
+[15:53:11] [DEBUG] Starting hardware auto-discovery...
+[15:53:11] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[15:53:11] [INFO] Hardware: GPU temperature sensor found.
+[15:53:11] [INFO] Hardware: Network interfaces detected.
+[15:53:11] [INFO] Hardware: Bluetooth adapters detected.
+[15:53:11] [INFO] Hardware: Power telemetry paths detected.
+[15:53:11] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[15:53:11] [SUCCESS] Linked engine: cpu [OK]
+[15:53:11] [SUCCESS] Linked engine: ram [OK]
+[15:53:11] [SUCCESS] Linked engine: disc [OK]
+[15:53:11] [SUCCESS] Linked engine: gpu_others [OK]
+[15:53:11] [SUCCESS] Linked engine: gpu_temp [OK]
+[15:53:11] [SUCCESS] Linked engine: net [OK]
+[15:53:11] [SUCCESS] Linked engine: bt [OK]
+[15:53:11] [SUCCESS] Linked engine: psu [OK]
+[15:53:11] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[15:53:11] [SUCCESS] Smoke check: core engines OK.
+[15:53:11] [INFO] Smoke check: cpu.get_usage OK
+[15:53:11] [INFO] Smoke check: ram.get_usage OK
+[15:53:11] [INFO] Smoke check: disc.get_all_usage OK
+[15:53:11] [INFO] Theme mode 'system' resolved to 'dark'.
+[15:53:11] [SUCCESS] Theme 'dark' applied (mode: system).
+[15:53:11] [SUCCESS] Real-time data stream started [120ms]
+[15:53:11] [INFO] Power mode 'auto' resolved to 'desktop'.
+[15:53:11] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[15:53:11] [INFO] [BOOT] System Ready.
+[15:53:11] [DEBUG] PSU debug: total=31.17W source=components | categories[gpu=31.17W] | sensors[hwmon:amdgpu:PPT=31.17W]
+[15:53:13] [DEBUG] PSU debug: total=30.13W source=components | categories[gpu=30.13W] | sensors[hwmon:amdgpu:PPT=30.13W]
+[15:53:15] [DEBUG] PSU debug: total=28.18W source=components | categories[gpu=28.18W] | sensors[hwmon:amdgpu:PPT=28.18W]
+[15:53:17] [DEBUG] PSU debug: total=29.18W source=components | categories[gpu=29.18W] | sensors[hwmon:amdgpu:PPT=29.18W]
+[15:54:30] [SYSTEM] LxMonitor Console Logic Initialized
+[15:54:30] [BOOT] CppHandler1: Discovery & Linker module online.
+[15:54:30] [BOOT] CppHandler2: Execution Manager ready.
+[15:54:30] [DEBUG] Starting hardware auto-discovery...
+[15:54:30] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[15:54:30] [INFO] Hardware: GPU temperature sensor found.
+[15:54:30] [INFO] Hardware: Network interfaces detected.
+[15:54:30] [INFO] Hardware: Bluetooth adapters detected.
+[15:54:30] [INFO] Hardware: Power telemetry paths detected.
+[15:54:30] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[15:54:30] [SUCCESS] Linked engine: cpu [OK]
+[15:54:30] [SUCCESS] Linked engine: ram [OK]
+[15:54:30] [SUCCESS] Linked engine: disc [OK]
+[15:54:30] [SUCCESS] Linked engine: gpu_others [OK]
+[15:54:30] [SUCCESS] Linked engine: gpu_temp [OK]
+[15:54:30] [SUCCESS] Linked engine: net [OK]
+[15:54:30] [SUCCESS] Linked engine: bt [OK]
+[15:54:30] [SUCCESS] Linked engine: psu [OK]
+[15:54:30] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[15:54:30] [SUCCESS] Smoke check: core engines OK.
+[15:54:30] [INFO] Smoke check: cpu.get_usage OK
+[15:54:30] [INFO] Smoke check: ram.get_usage OK
+[15:54:30] [INFO] Smoke check: disc.get_all_usage OK
+[15:54:30] [INFO] Theme mode 'system' resolved to 'dark'.
+[15:54:30] [SUCCESS] Theme 'dark' applied (mode: system).
+[15:54:30] [SUCCESS] Real-time data stream started [120ms]
+[15:54:30] [INFO] Power mode 'auto' resolved to 'desktop'.
+[15:54:30] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[15:54:30] [INFO] [BOOT] System Ready.
+[15:54:30] [DEBUG] PSU debug: total=29.14W source=components | categories[gpu=29.14W] | sensors[hwmon:amdgpu:PPT=29.14W]
+[15:54:30] [INFO] UI: Otwarto ustawienia.
+[15:54:32] [DEBUG] PSU debug: total=28.14W source=components | categories[gpu=28.14W] | sensors[hwmon:amdgpu:PPT=28.14W]
+[15:55:25] [SYSTEM] LxMonitor Console Logic Initialized
+[15:55:25] [BOOT] CppHandler1: Discovery & Linker module online.
+[15:55:25] [BOOT] CppHandler2: Execution Manager ready.
+[15:55:25] [DEBUG] Starting hardware auto-discovery...
+[15:55:25] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[15:55:25] [INFO] Hardware: GPU temperature sensor found.
+[15:55:25] [INFO] Hardware: Network interfaces detected.
+[15:55:25] [INFO] Hardware: Bluetooth adapters detected.
+[15:55:25] [INFO] Hardware: Power telemetry paths detected.
+[15:55:25] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[15:55:25] [SUCCESS] Linked engine: cpu [OK]
+[15:55:25] [SUCCESS] Linked engine: ram [OK]
+[15:55:25] [SUCCESS] Linked engine: disc [OK]
+[15:55:25] [SUCCESS] Linked engine: gpu_others [OK]
+[15:55:25] [SUCCESS] Linked engine: gpu_temp [OK]
+[15:55:25] [SUCCESS] Linked engine: net [OK]
+[15:55:25] [SUCCESS] Linked engine: bt [OK]
+[15:55:25] [SUCCESS] Linked engine: psu [OK]
+[15:55:25] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[15:55:25] [SUCCESS] Smoke check: core engines OK.
+[15:55:25] [INFO] Smoke check: cpu.get_usage OK
+[15:55:25] [INFO] Smoke check: ram.get_usage OK
+[15:55:25] [INFO] Smoke check: disc.get_all_usage OK
+[15:55:25] [INFO] Theme mode 'system' resolved to 'dark'.
+[15:55:25] [SUCCESS] Theme 'dark' applied (mode: system).
+[15:55:25] [SUCCESS] Real-time data stream started [120ms]
+[15:55:25] [INFO] Power mode 'auto' resolved to 'desktop'.
+[15:55:25] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[15:55:26] [DEBUG] PSU debug: total=26.14W source=components | categories[gpu=26.14W] | sensors[hwmon:amdgpu:PPT=26.14W]
+[15:55:26] [INFO] [BOOT] System Ready.
+[15:57:17] [SYSTEM] LxMonitor Console Logic Initialized
+[15:57:17] [BOOT] CppHandler1: Discovery & Linker module online.
+[15:57:17] [BOOT] CppHandler2: Execution Manager ready.
+[15:57:18] [DEBUG] Starting hardware auto-discovery...
+[15:57:18] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[15:57:18] [INFO] Hardware: GPU temperature sensor found.
+[15:57:18] [INFO] Hardware: Network interfaces detected.
+[15:57:18] [INFO] Hardware: Bluetooth adapters detected.
+[15:57:18] [INFO] Hardware: Power telemetry paths detected.
+[15:57:18] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[15:57:18] [SUCCESS] Linked engine: cpu [OK]
+[15:57:18] [SUCCESS] Linked engine: ram [OK]
+[15:57:18] [SUCCESS] Linked engine: disc [OK]
+[15:57:18] [SUCCESS] Linked engine: gpu_others [OK]
+[15:57:18] [SUCCESS] Linked engine: gpu_temp [OK]
+[15:57:18] [SUCCESS] Linked engine: net [OK]
+[15:57:18] [SUCCESS] Linked engine: bt [OK]
+[15:57:18] [SUCCESS] Linked engine: psu [OK]
+[15:57:18] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[15:57:18] [SUCCESS] Smoke check: core engines OK.
+[15:57:18] [INFO] Smoke check: cpu.get_usage OK
+[15:57:18] [INFO] Smoke check: ram.get_usage OK
+[15:57:18] [INFO] Smoke check: disc.get_all_usage OK
+[15:57:18] [INFO] Theme mode 'system' resolved to 'dark'.
+[15:57:18] [SUCCESS] Theme 'dark' applied (mode: system).
+[15:57:18] [SUCCESS] Real-time data stream started [120ms]
+[15:57:18] [INFO] Power mode 'auto' resolved to 'desktop'.
+[15:57:18] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[15:57:18] [DEBUG] PSU debug: total=26.13W source=components | categories[gpu=26.13W] | sensors[hwmon:amdgpu:PPT=26.13W]
+[15:57:18] [INFO] [BOOT] System Ready.
+[15:57:20] [DEBUG] PSU debug: total=30.07W source=components | categories[gpu=30.07W] | sensors[hwmon:amdgpu:PPT=30.07W]
+[17:07:12] [SYSTEM] LxMonitor Console Logic Initialized
+[17:07:12] [BOOT] CppHandler1: Discovery & Linker module online.
+[17:07:12] [BOOT] CppHandler2: Execution Manager ready.
+[17:07:12] [DEBUG] Starting hardware auto-discovery...
+[17:07:12] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[17:07:12] [INFO] Hardware: GPU temperature sensor found.
+[17:07:12] [INFO] Hardware: Network interfaces detected.
+[17:07:12] [INFO] Hardware: Bluetooth adapters detected.
+[17:07:12] [INFO] Hardware: Power telemetry paths detected.
+[17:07:12] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[17:07:12] [SUCCESS] Linked engine: cpu [OK]
+[17:07:12] [SUCCESS] Linked engine: ram [OK]
+[17:07:12] [SUCCESS] Linked engine: disc [OK]
+[17:07:12] [SUCCESS] Linked engine: gpu_others [OK]
+[17:07:12] [SUCCESS] Linked engine: gpu_temp [OK]
+[17:07:12] [SUCCESS] Linked engine: net [OK]
+[17:07:12] [SUCCESS] Linked engine: bt [OK]
+[17:07:12] [SUCCESS] Linked engine: psu [OK]
+[17:07:12] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[17:07:12] [SUCCESS] Smoke check: core engines OK.
+[17:07:12] [INFO] Smoke check: cpu.get_usage OK
+[17:07:12] [INFO] Smoke check: ram.get_usage OK
+[17:07:12] [INFO] Smoke check: disc.get_all_usage OK
+[17:07:12] [INFO] Theme mode 'system' resolved to 'dark'.
+[17:07:12] [SUCCESS] Theme 'dark' applied (mode: system).
+[17:07:12] [SUCCESS] Real-time data stream started [120ms]
+[17:07:12] [INFO] Power mode 'auto' resolved to 'desktop'.
+[17:07:12] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[17:07:12] [INFO] [BOOT] System Ready.
+[17:07:12] [DEBUG] PSU debug: total=31.07W source=components | categories[gpu=31.07W] | sensors[hwmon:amdgpu:PPT=31.07W]
+[17:07:14] [DEBUG] PSU debug: total=26.01W source=components | categories[gpu=26.01W] | sensors[hwmon:amdgpu:PPT=26.01W]
+[17:07:15] [INFO] UI: Console shown.
+[17:07:16] [DEBUG] PSU debug: total=26.05W source=components | categories[gpu=26.05W] | sensors[hwmon:amdgpu:PPT=26.05W]
+[17:07:18] [DEBUG] PSU debug: total=26.13W source=components | categories[gpu=26.13W] | sensors[hwmon:amdgpu:PPT=26.13W]
+[17:07:20] [DEBUG] PSU debug: total=28.24W source=components | categories[gpu=28.24W] | sensors[hwmon:amdgpu:PPT=28.24W]
+[17:07:22] [DEBUG] PSU debug: total=26.12W source=components | categories[gpu=26.12W] | sensors[hwmon:amdgpu:PPT=26.12W]
+[17:07:24] [DEBUG] PSU debug: total=28.16W source=components | categories[gpu=28.16W] | sensors[hwmon:amdgpu:PPT=28.16W]
+[17:07:26] [DEBUG] PSU debug: total=30.00W source=components | categories[gpu=30.00W] | sensors[hwmon:amdgpu:PPT=30.00W]
+[17:07:28] [DEBUG] PSU debug: total=29.18W source=components | categories[gpu=29.18W] | sensors[hwmon:amdgpu:PPT=29.18W]
+[17:12:50] [SYSTEM] LxMonitor Console Logic Initialized
+[17:12:50] [BOOT] CppHandler1: Discovery & Linker module online.
+[17:12:50] [BOOT] CppHandler2: Execution Manager ready.
+[17:12:50] [DEBUG] Starting hardware auto-discovery...
+[17:12:50] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[17:12:50] [INFO] Hardware: GPU temperature sensor found.
+[17:12:50] [INFO] Hardware: Network interfaces detected.
+[17:12:50] [INFO] Hardware: Bluetooth adapters detected.
+[17:12:50] [INFO] Hardware: Power telemetry paths detected.
+[17:12:50] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[17:12:50] [SUCCESS] Linked engine: cpu [OK]
+[17:12:50] [SUCCESS] Linked engine: ram [OK]
+[17:12:50] [SUCCESS] Linked engine: disc [OK]
+[17:12:50] [SUCCESS] Linked engine: gpu_others [OK]
+[17:12:50] [SUCCESS] Linked engine: gpu_temp [OK]
+[17:12:50] [SUCCESS] Linked engine: net [OK]
+[17:12:50] [SUCCESS] Linked engine: bt [OK]
+[17:12:50] [SUCCESS] Linked engine: psu [OK]
+[17:12:50] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[17:12:50] [SUCCESS] Smoke check: core engines OK.
+[17:12:50] [INFO] Smoke check: cpu.get_usage OK
+[17:12:50] [INFO] Smoke check: ram.get_usage OK
+[17:12:50] [INFO] Smoke check: disc.get_all_usage OK
+[17:12:50] [INFO] Theme mode 'system' resolved to 'dark'.
+[17:12:50] [SUCCESS] Theme 'dark' applied (mode: system).
+[17:12:50] [SUCCESS] Real-time data stream started [120ms]
+[17:12:50] [INFO] Power mode 'auto' resolved to 'desktop'.
+[17:12:50] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[17:12:51] [DEBUG] PSU debug: total=25.25W source=components | categories[gpu=25.25W] | sensors[hwmon:amdgpu:PPT=25.25W]
+[17:12:51] [INFO] [BOOT] System Ready.
+[17:12:53] [DEBUG] PSU debug: total=26.19W source=components | categories[gpu=26.19W] | sensors[hwmon:amdgpu:PPT=26.19W]
+[17:12:53] [INFO] UI: Console shown.
+[17:12:55] [DEBUG] PSU debug: total=28.24W source=components | categories[gpu=28.24W] | sensors[hwmon:amdgpu:PPT=28.24W]
+[17:12:57] [DEBUG] PSU debug: total=29.02W source=components | categories[gpu=29.02W] | sensors[hwmon:amdgpu:PPT=29.02W]
+[17:14:37] [SYSTEM] LxMonitor Console Logic Initialized
+[17:14:37] [BOOT] CppHandler1: Discovery & Linker module online.
+[17:14:37] [BOOT] CppHandler2: Execution Manager ready.
+[17:14:37] [DEBUG] Starting hardware auto-discovery...
+[17:14:37] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[17:14:37] [INFO] Hardware: GPU temperature sensor found.
+[17:14:37] [INFO] Hardware: Network interfaces detected.
+[17:14:37] [INFO] Hardware: Bluetooth adapters detected.
+[17:14:37] [INFO] Hardware: Power telemetry paths detected.
+[17:14:37] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[17:14:37] [ERROR] Linker: Critical error loading 'cpu': Python version mismatch: module was compiled for Python 3.13, but the interpreter version is incompatible: 3.14.2 (main, Dec  5 2025, 00:00:00) [GCC 15.2.1 20251111 (Red Hat 15.2.1-4)].
+[17:14:37] [WARN] Self-hotfix: attempting rebuild for 'cpu' (Python version mismatch: module was compiled for Python 3.13, but the interpreter version is incompatible: 3.14.2 (main, Dec  5 2025, 00:00:00) [GCC 15.2.1 20251111 (Red Hat 15.2.1-4)].).
+[17:14:37] [INFO] Self-hotfix build status: ready=True, engines_ready=9/10
+[17:14:37] [ERROR] Self-hotfix link retry failed for 'cpu': Python version mismatch: module was compiled for Python 3.13, but the interpreter version is incompatible: 3.14.2 (main, Dec  5 2025, 00:00:00) [GCC 15.2.1 20251111 (Red Hat 15.2.1-4)].
+[17:14:37] [ERROR] Linker: Critical error loading 'ram': Python version mismatch: module was compiled for Python 3.13, but the interpreter version is incompatible: 3.14.2 (main, Dec  5 2025, 00:00:00) [GCC 15.2.1 20251111 (Red Hat 15.2.1-4)].
+[17:14:37] [WARN] Self-hotfix: attempting rebuild for 'ram' (Python version mismatch: module was compiled for Python 3.13, but the interpreter version is incompatible: 3.14.2 (main, Dec  5 2025, 00:00:00) [GCC 15.2.1 20251111 (Red Hat 15.2.1-4)].).
+[17:14:37] [INFO] Self-hotfix build status: ready=True, engines_ready=9/10
+[17:14:37] [ERROR] Self-hotfix link retry failed for 'ram': Python version mismatch: module was compiled for Python 3.13, but the interpreter version is incompatible: 3.14.2 (main, Dec  5 2025, 00:00:00) [GCC 15.2.1 20251111 (Red Hat 15.2.1-4)].
+[17:14:37] [ERROR] Linker: Critical error loading 'disc': Python version mismatch: module was compiled for Python 3.13, but the interpreter version is incompatible: 3.14.2 (main, Dec  5 2025, 00:00:00) [GCC 15.2.1 20251111 (Red Hat 15.2.1-4)].
+[17:14:37] [WARN] Self-hotfix: attempting rebuild for 'disc' (Python version mismatch: module was compiled for Python 3.13, but the interpreter version is incompatible: 3.14.2 (main, Dec  5 2025, 00:00:00) [GCC 15.2.1 20251111 (Red Hat 15.2.1-4)].).
+[17:14:37] [INFO] Self-hotfix build status: ready=True, engines_ready=9/10
+[17:14:37] [ERROR] Self-hotfix link retry failed for 'disc': Python version mismatch: module was compiled for Python 3.13, but the interpreter version is incompatible: 3.14.2 (main, Dec  5 2025, 00:00:00) [GCC 15.2.1 20251111 (Red Hat 15.2.1-4)].
+[17:14:37] [ERROR] Linker: Critical error loading 'gpu_others': Python version mismatch: module was compiled for Python 3.13, but the interpreter version is incompatible: 3.14.2 (main, Dec  5 2025, 00:00:00) [GCC 15.2.1 20251111 (Red Hat 15.2.1-4)].
+[17:14:37] [WARN] Self-hotfix: attempting rebuild for 'gpu_others' (Python version mismatch: module was compiled for Python 3.13, but the interpreter version is incompatible: 3.14.2 (main, Dec  5 2025, 00:00:00) [GCC 15.2.1 20251111 (Red Hat 15.2.1-4)].).
+[17:14:38] [INFO] Self-hotfix build status: ready=True, engines_ready=9/10
+[17:14:38] [ERROR] Self-hotfix link retry failed for 'gpu_others': Python version mismatch: module was compiled for Python 3.13, but the interpreter version is incompatible: 3.14.2 (main, Dec  5 2025, 00:00:00) [GCC 15.2.1 20251111 (Red Hat 15.2.1-4)].
+[17:14:38] [ERROR] Linker: Critical error loading 'gpu_temp': Python version mismatch: module was compiled for Python 3.13, but the interpreter version is incompatible: 3.14.2 (main, Dec  5 2025, 00:00:00) [GCC 15.2.1 20251111 (Red Hat 15.2.1-4)].
+[17:14:38] [WARN] Self-hotfix: attempting rebuild for 'gpu_temp' (Python version mismatch: module was compiled for Python 3.13, but the interpreter version is incompatible: 3.14.2 (main, Dec  5 2025, 00:00:00) [GCC 15.2.1 20251111 (Red Hat 15.2.1-4)].).
+[17:14:38] [INFO] Self-hotfix build status: ready=True, engines_ready=9/10
+[17:14:38] [ERROR] Self-hotfix link retry failed for 'gpu_temp': Python version mismatch: module was compiled for Python 3.13, but the interpreter version is incompatible: 3.14.2 (main, Dec  5 2025, 00:00:00) [GCC 15.2.1 20251111 (Red Hat 15.2.1-4)].
+[17:14:38] [ERROR] Linker: Critical error loading 'net': Python version mismatch: module was compiled for Python 3.13, but the interpreter version is incompatible: 3.14.2 (main, Dec  5 2025, 00:00:00) [GCC 15.2.1 20251111 (Red Hat 15.2.1-4)].
+[17:14:38] [WARN] Self-hotfix: attempting rebuild for 'net' (Python version mismatch: module was compiled for Python 3.13, but the interpreter version is incompatible: 3.14.2 (main, Dec  5 2025, 00:00:00) [GCC 15.2.1 20251111 (Red Hat 15.2.1-4)].).
+[17:14:38] [INFO] Self-hotfix build status: ready=True, engines_ready=9/10
+[17:14:38] [ERROR] Self-hotfix link retry failed for 'net': Python version mismatch: module was compiled for Python 3.13, but the interpreter version is incompatible: 3.14.2 (main, Dec  5 2025, 00:00:00) [GCC 15.2.1 20251111 (Red Hat 15.2.1-4)].
+[17:14:38] [ERROR] Linker: Critical error loading 'bt': Python version mismatch: module was compiled for Python 3.13, but the interpreter version is incompatible: 3.14.2 (main, Dec  5 2025, 00:00:00) [GCC 15.2.1 20251111 (Red Hat 15.2.1-4)].
+[17:14:38] [WARN] Self-hotfix: attempting rebuild for 'bt' (Python version mismatch: module was compiled for Python 3.13, but the interpreter version is incompatible: 3.14.2 (main, Dec  5 2025, 00:00:00) [GCC 15.2.1 20251111 (Red Hat 15.2.1-4)].).
+[17:14:38] [INFO] Self-hotfix build status: ready=True, engines_ready=9/10
+[17:14:38] [ERROR] Self-hotfix link retry failed for 'bt': Python version mismatch: module was compiled for Python 3.13, but the interpreter version is incompatible: 3.14.2 (main, Dec  5 2025, 00:00:00) [GCC 15.2.1 20251111 (Red Hat 15.2.1-4)].
+[17:14:38] [ERROR] Linker: Critical error loading 'psu': Python version mismatch: module was compiled for Python 3.13, but the interpreter version is incompatible: 3.14.2 (main, Dec  5 2025, 00:00:00) [GCC 15.2.1 20251111 (Red Hat 15.2.1-4)].
+[17:14:38] [WARN] Self-hotfix: attempting rebuild for 'psu' (Python version mismatch: module was compiled for Python 3.13, but the interpreter version is incompatible: 3.14.2 (main, Dec  5 2025, 00:00:00) [GCC 15.2.1 20251111 (Red Hat 15.2.1-4)].).
+[17:14:38] [INFO] Self-hotfix build status: ready=True, engines_ready=9/10
+[17:14:38] [ERROR] Self-hotfix link retry failed for 'psu': Python version mismatch: module was compiled for Python 3.13, but the interpreter version is incompatible: 3.14.2 (main, Dec  5 2025, 00:00:00) [GCC 15.2.1 20251111 (Red Hat 15.2.1-4)].
+[17:14:38] [INFO] Monitoring active for: 
+[17:14:38] [ERROR] Critical: No hardware engines linked! Using Python fallback collectors.
+[17:14:38] [WARN] Smoke check: Missing required engines: cpu, ram, disc
+[17:14:38] [WARN] Część metryk jest zablokowana. Wejdź w Ustawienia i kliknij Odblokuj.
+[17:14:38] [INFO] Theme mode 'system' resolved to 'dark'.
+[17:14:38] [SUCCESS] Theme 'dark' applied (mode: system).
+[17:14:38] [WARN] No linked engines: running Python fallback collectors.
+[17:14:38] [SUCCESS] Real-time data stream started [120ms]
+[17:14:38] [INFO] Power mode 'auto' resolved to 'desktop'.
+[17:14:38] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[17:14:38] [INFO] [BOOT] System Ready.
+[17:14:43] [INFO] UI: Console shown.
+[17:21:10] [SYSTEM] LxMonitor Console Logic Initialized
+[17:21:10] [BOOT] CppHandler1: Discovery & Linker module online.
+[17:21:10] [BOOT] CppHandler2: Execution Manager ready.
+[17:21:10] [DEBUG] Starting hardware auto-discovery...
+[17:21:10] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[17:21:10] [INFO] Hardware: GPU temperature sensor found.
+[17:21:10] [INFO] Hardware: Network interfaces detected.
+[17:21:10] [INFO] Hardware: Bluetooth adapters detected.
+[17:21:10] [INFO] Hardware: Power telemetry paths detected.
+[17:21:10] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[17:21:10] [SUCCESS] Linked engine: cpu [OK]
+[17:21:10] [SUCCESS] Linked engine: ram [OK]
+[17:21:10] [SUCCESS] Linked engine: disc [OK]
+[17:21:10] [SUCCESS] Linked engine: gpu_others [OK]
+[17:21:10] [SUCCESS] Linked engine: gpu_temp [OK]
+[17:21:10] [SUCCESS] Linked engine: net [OK]
+[17:21:10] [SUCCESS] Linked engine: bt [OK]
+[17:21:10] [SUCCESS] Linked engine: psu [OK]
+[17:21:10] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[17:21:10] [SUCCESS] Smoke check: core engines OK.
+[17:21:10] [INFO] Smoke check: cpu.get_usage OK
+[17:21:10] [INFO] Smoke check: ram.get_usage OK
+[17:21:10] [INFO] Smoke check: disc.get_all_usage OK
+[17:21:10] [INFO] Theme mode 'system' resolved to 'dark'.
+[17:21:10] [SUCCESS] Theme 'dark' applied (mode: system).
+[17:21:10] [SUCCESS] Real-time data stream started [120ms]
+[17:21:10] [INFO] Power mode 'auto' resolved to 'desktop'.
+[17:21:10] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[17:21:10] [DEBUG] PSU debug: total=26.05W source=components | categories[gpu=26.05W] | sensors[hwmon:amdgpu:PPT=26.05W]
+[17:21:11] [INFO] [BOOT] System Ready.
+[17:21:13] [DEBUG] PSU debug: total=27.08W source=components | categories[gpu=27.08W] | sensors[hwmon:amdgpu:PPT=27.08W]
+[17:21:13] [INFO] UI: Console shown.
+[17:21:15] [DEBUG] PSU debug: total=29.23W source=components | categories[gpu=29.23W] | sensors[hwmon:amdgpu:PPT=29.23W]
+[17:21:17] [DEBUG] PSU debug: total=26.25W source=components | categories[gpu=26.25W] | sensors[hwmon:amdgpu:PPT=26.25W]
+[17:21:19] [DEBUG] PSU debug: total=28.16W source=components | categories[gpu=28.16W] | sensors[hwmon:amdgpu:PPT=28.16W]
+[17:21:21] [DEBUG] PSU debug: total=27.10W source=components | categories[gpu=27.10W] | sensors[hwmon:amdgpu:PPT=27.10W]
+[17:21:23] [DEBUG] PSU debug: total=27.05W source=components | categories[gpu=27.05W] | sensors[hwmon:amdgpu:PPT=27.05W]
+[17:22:05] [SYSTEM] LxMonitor Console Logic Initialized
+[17:22:05] [BOOT] CppHandler1: Discovery & Linker module online.
+[17:22:05] [BOOT] CppHandler2: Execution Manager ready.
+[17:22:05] [DEBUG] Starting hardware auto-discovery...
+[17:22:05] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[17:22:05] [INFO] Hardware: GPU temperature sensor found.
+[17:22:05] [INFO] Hardware: Network interfaces detected.
+[17:22:05] [INFO] Hardware: Bluetooth adapters detected.
+[17:22:05] [INFO] Hardware: Power telemetry paths detected.
+[17:22:05] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[17:22:05] [SUCCESS] Linked engine: cpu [OK]
+[17:22:05] [SUCCESS] Linked engine: ram [OK]
+[17:22:05] [SUCCESS] Linked engine: disc [OK]
+[17:22:05] [SUCCESS] Linked engine: gpu_others [OK]
+[17:22:05] [SUCCESS] Linked engine: gpu_temp [OK]
+[17:22:05] [SUCCESS] Linked engine: net [OK]
+[17:22:05] [SUCCESS] Linked engine: bt [OK]
+[17:22:05] [SUCCESS] Linked engine: psu [OK]
+[17:22:05] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[17:22:05] [SUCCESS] Smoke check: core engines OK.
+[17:22:05] [INFO] Smoke check: cpu.get_usage OK
+[17:22:05] [INFO] Smoke check: ram.get_usage OK
+[17:22:05] [INFO] Smoke check: disc.get_all_usage OK
+[17:22:05] [INFO] Theme mode 'system' resolved to 'dark'.
+[17:22:05] [SUCCESS] Theme 'dark' applied (mode: system).
+[17:22:05] [SUCCESS] Real-time data stream started [120ms]
+[17:22:05] [INFO] Power mode 'auto' resolved to 'desktop'.
+[17:22:05] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[17:22:05] [INFO] [BOOT] System Ready.
+[17:22:05] [DEBUG] PSU debug: total=30.09W source=components | categories[gpu=30.09W] | sensors[hwmon:amdgpu:PPT=30.09W]
+[17:22:07] [DEBUG] PSU debug: total=25.25W source=components | categories[gpu=25.25W] | sensors[hwmon:amdgpu:PPT=25.25W]
+[17:22:09] [DEBUG] PSU debug: total=26.05W source=components | categories[gpu=26.05W] | sensors[hwmon:amdgpu:PPT=26.05W]
+[17:22:12] [SYSTEM] LxMonitor Console Logic Initialized
+[17:22:12] [BOOT] CppHandler1: Discovery & Linker module online.
+[17:22:12] [BOOT] CppHandler2: Execution Manager ready.
+[17:22:12] [DEBUG] Starting hardware auto-discovery...
+[17:22:12] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[17:22:12] [INFO] Hardware: GPU temperature sensor found.
+[17:22:12] [INFO] Hardware: Network interfaces detected.
+[17:22:12] [INFO] Hardware: Bluetooth adapters detected.
+[17:22:12] [INFO] Hardware: Power telemetry paths detected.
+[17:22:12] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[17:22:12] [SUCCESS] Linked engine: cpu [OK]
+[17:22:12] [SUCCESS] Linked engine: ram [OK]
+[17:22:12] [SUCCESS] Linked engine: disc [OK]
+[17:22:12] [SUCCESS] Linked engine: gpu_others [OK]
+[17:22:12] [SUCCESS] Linked engine: gpu_temp [OK]
+[17:22:12] [SUCCESS] Linked engine: net [OK]
+[17:22:12] [SUCCESS] Linked engine: bt [OK]
+[17:22:12] [SUCCESS] Linked engine: psu [OK]
+[17:22:12] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[17:22:12] [SUCCESS] Smoke check: core engines OK.
+[17:22:12] [INFO] Smoke check: cpu.get_usage OK
+[17:22:12] [INFO] Smoke check: ram.get_usage OK
+[17:22:12] [INFO] Smoke check: disc.get_all_usage OK
+[17:22:12] [INFO] Theme mode 'system' resolved to 'dark'.
+[17:22:12] [SUCCESS] Theme 'dark' applied (mode: system).
+[17:22:12] [SUCCESS] Real-time data stream started [120ms]
+[17:22:12] [INFO] Power mode 'auto' resolved to 'desktop'.
+[17:22:12] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[17:22:12] [DEBUG] PSU debug: total=31.04W source=components | categories[gpu=31.04W] | sensors[hwmon:amdgpu:PPT=31.04W]
+[17:22:14] [INFO] [BOOT] System Ready.
+[17:22:14] [DEBUG] PSU debug: total=30.07W source=components | categories[gpu=30.07W] | sensors[hwmon:amdgpu:PPT=30.07W]
+[17:22:16] [DEBUG] PSU debug: total=29.24W source=components | categories[gpu=29.24W] | sensors[hwmon:amdgpu:PPT=29.24W]
+[17:22:19] [DEBUG] PSU debug: total=26.06W source=components | categories[gpu=26.06W] | sensors[hwmon:amdgpu:PPT=26.06W]
+[17:22:21] [DEBUG] PSU debug: total=26.05W source=components | categories[gpu=26.05W] | sensors[hwmon:amdgpu:PPT=26.05W]
+[17:23:23] [SYSTEM] LxMonitor Console Logic Initialized
+[17:23:23] [BOOT] CppHandler1: Discovery & Linker module online.
+[17:23:23] [BOOT] CppHandler2: Execution Manager ready.
+[17:23:23] [DEBUG] Starting hardware auto-discovery...
+[17:23:23] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[17:23:23] [INFO] Hardware: GPU temperature sensor found.
+[17:23:23] [INFO] Hardware: Network interfaces detected.
+[17:23:23] [INFO] Hardware: Bluetooth adapters detected.
+[17:23:23] [INFO] Hardware: Power telemetry paths detected.
+[17:23:23] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[17:23:23] [SUCCESS] Linked engine: cpu [OK]
+[17:23:23] [SUCCESS] Linked engine: ram [OK]
+[17:23:23] [SUCCESS] Linked engine: disc [OK]
+[17:23:23] [SUCCESS] Linked engine: gpu_others [OK]
+[17:23:23] [SUCCESS] Linked engine: gpu_temp [OK]
+[17:23:23] [SUCCESS] Linked engine: net [OK]
+[17:23:23] [SUCCESS] Linked engine: bt [OK]
+[17:23:23] [SUCCESS] Linked engine: psu [OK]
+[17:23:23] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[17:23:23] [SUCCESS] Smoke check: core engines OK.
+[17:23:23] [INFO] Smoke check: cpu.get_usage OK
+[17:23:23] [INFO] Smoke check: ram.get_usage OK
+[17:23:23] [INFO] Smoke check: disc.get_all_usage OK
+[17:23:23] [INFO] Theme mode 'system' resolved to 'dark'.
+[17:23:23] [SUCCESS] Theme 'dark' applied (mode: system).
+[17:23:23] [SUCCESS] Real-time data stream started [120ms]
+[17:23:23] [INFO] Power mode 'auto' resolved to 'desktop'.
+[17:23:23] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[17:23:23] [INFO] [BOOT] System Ready.
+[17:23:23] [DEBUG] PSU debug: total=29.14W source=components | categories[gpu=29.14W] | sensors[hwmon:amdgpu:PPT=29.14W]
+[17:23:25] [DEBUG] PSU debug: total=26.22W source=components | categories[gpu=26.22W] | sensors[hwmon:amdgpu:PPT=26.22W]
+[17:24:06] [SYSTEM] LxMonitor Console Logic Initialized
+[17:24:06] [BOOT] CppHandler1: Discovery & Linker module online.
+[17:24:06] [BOOT] CppHandler2: Execution Manager ready.
+[17:24:06] [DEBUG] Starting hardware auto-discovery...
+[17:24:06] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[17:24:06] [INFO] Hardware: GPU temperature sensor found.
+[17:24:06] [INFO] Hardware: Network interfaces detected.
+[17:24:06] [INFO] Hardware: Bluetooth adapters detected.
+[17:24:06] [INFO] Hardware: Power telemetry paths detected.
+[17:24:06] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[17:24:06] [SUCCESS] Linked engine: cpu [OK]
+[17:24:06] [SUCCESS] Linked engine: ram [OK]
+[17:24:06] [SUCCESS] Linked engine: disc [OK]
+[17:24:06] [SUCCESS] Linked engine: gpu_others [OK]
+[17:24:06] [SUCCESS] Linked engine: gpu_temp [OK]
+[17:24:06] [SUCCESS] Linked engine: net [OK]
+[17:24:06] [SUCCESS] Linked engine: bt [OK]
+[17:24:06] [SUCCESS] Linked engine: psu [OK]
+[17:24:06] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[17:24:06] [SUCCESS] Smoke check: core engines OK.
+[17:24:06] [INFO] Smoke check: cpu.get_usage OK
+[17:24:06] [INFO] Smoke check: ram.get_usage OK
+[17:24:06] [INFO] Smoke check: disc.get_all_usage OK
+[17:24:06] [INFO] Theme mode 'system' resolved to 'dark'.
+[17:24:06] [SUCCESS] Theme 'dark' applied (mode: system).
+[17:24:06] [SUCCESS] Real-time data stream started [120ms]
+[17:24:06] [INFO] Power mode 'auto' resolved to 'desktop'.
+[17:24:06] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[17:24:06] [INFO] [BOOT] System Ready.
+[17:24:06] [DEBUG] PSU debug: total=29.25W source=components | categories[gpu=29.25W] | sensors[hwmon:amdgpu:PPT=29.25W]
+[17:24:08] [DEBUG] PSU debug: total=25.22W source=components | categories[gpu=25.22W] | sensors[hwmon:amdgpu:PPT=25.22W]
+[18:12:40] [SYSTEM] LxMonitor Console Logic Initialized
+[18:12:40] [BOOT] CppHandler1: Discovery & Linker module online.
+[18:12:40] [BOOT] CppHandler2: Execution Manager ready.
+[18:12:40] [DEBUG] Starting hardware auto-discovery...
+[18:12:40] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[18:12:40] [INFO] Hardware: GPU temperature sensor found.
+[18:12:40] [INFO] Hardware: Network interfaces detected.
+[18:12:40] [INFO] Hardware: Bluetooth adapters detected.
+[18:12:40] [INFO] Hardware: Power telemetry paths detected.
+[18:12:40] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[18:12:40] [SUCCESS] Linked engine: cpu [OK]
+[18:12:40] [SUCCESS] Linked engine: ram [OK]
+[18:12:40] [SUCCESS] Linked engine: disc [OK]
+[18:12:40] [SUCCESS] Linked engine: gpu_others [OK]
+[18:12:40] [SUCCESS] Linked engine: gpu_temp [OK]
+[18:12:40] [SUCCESS] Linked engine: net [OK]
+[18:12:40] [SUCCESS] Linked engine: bt [OK]
+[18:12:40] [SUCCESS] Linked engine: psu [OK]
+[18:12:40] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[18:12:40] [SUCCESS] Smoke check: core engines OK.
+[18:12:40] [INFO] Smoke check: cpu.get_usage OK
+[18:12:40] [INFO] Smoke check: ram.get_usage OK
+[18:12:40] [INFO] Smoke check: disc.get_all_usage OK
+[18:12:40] [INFO] Theme mode 'system' resolved to 'dark'.
+[18:12:40] [SUCCESS] Theme 'dark' applied (mode: system).
+[18:12:40] [SUCCESS] Real-time data stream started [120ms]
+[18:12:40] [INFO] Power mode 'auto' resolved to 'desktop'.
+[18:12:40] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[18:12:40] [INFO] [BOOT] System Ready.
+[18:12:40] [DEBUG] PSU debug: total=33.20W source=components | categories[gpu=33.20W] | sensors[hwmon:amdgpu:PPT=33.20W]
+[18:12:42] [DEBUG] PSU debug: total=29.23W source=components | categories[gpu=29.23W] | sensors[hwmon:amdgpu:PPT=29.23W]
+[18:12:42] [INFO] UI: Console shown.
+[18:12:44] [DEBUG] PSU debug: total=30.15W source=components | categories[gpu=30.15W] | sensors[hwmon:amdgpu:PPT=30.15W]
+[18:12:46] [DEBUG] PSU debug: total=30.11W source=components | categories[gpu=30.11W] | sensors[hwmon:amdgpu:PPT=30.11W]
+[18:12:48] [DEBUG] PSU debug: total=31.18W source=components | categories[gpu=31.18W] | sensors[hwmon:amdgpu:PPT=31.18W]
+[18:12:50] [DEBUG] PSU debug: total=33.25W source=components | categories[gpu=33.25W] | sensors[hwmon:amdgpu:PPT=33.25W]
+[18:12:52] [DEBUG] PSU debug: total=32.09W source=components | categories[gpu=32.09W] | sensors[hwmon:amdgpu:PPT=32.09W]
+[18:12:54] [DEBUG] PSU debug: total=30.21W source=components | categories[gpu=30.21W] | sensors[hwmon:amdgpu:PPT=30.21W]
+[18:12:56] [DEBUG] PSU debug: total=30.07W source=components | categories[gpu=30.07W] | sensors[hwmon:amdgpu:PPT=30.07W]
+[18:12:58] [DEBUG] PSU debug: total=31.17W source=components | categories[gpu=31.17W] | sensors[hwmon:amdgpu:PPT=31.17W]
+[18:13:00] [DEBUG] PSU debug: total=30.05W source=components | categories[gpu=30.05W] | sensors[hwmon:amdgpu:PPT=30.05W]
+[18:13:03] [DEBUG] PSU debug: total=38.19W source=components | categories[gpu=38.19W] | sensors[hwmon:amdgpu:PPT=38.19W]
+[18:13:05] [DEBUG] PSU debug: total=30.25W source=components | categories[gpu=30.25W] | sensors[hwmon:amdgpu:PPT=30.25W]
+[18:13:07] [DEBUG] PSU debug: total=29.24W source=components | categories[gpu=29.24W] | sensors[hwmon:amdgpu:PPT=29.24W]
+[18:13:09] [DEBUG] PSU debug: total=31.13W source=components | categories[gpu=31.13W] | sensors[hwmon:amdgpu:PPT=31.13W]
+[18:13:11] [DEBUG] PSU debug: total=33.03W source=components | categories[gpu=33.03W] | sensors[hwmon:amdgpu:PPT=33.03W]
+[18:13:13] [DEBUG] PSU debug: total=30.04W source=components | categories[gpu=30.04W] | sensors[hwmon:amdgpu:PPT=30.04W]
+[18:13:15] [DEBUG] PSU debug: total=30.18W source=components | categories[gpu=30.18W] | sensors[hwmon:amdgpu:PPT=30.18W]
+[18:13:17] [DEBUG] PSU debug: total=30.23W source=components | categories[gpu=30.23W] | sensors[hwmon:amdgpu:PPT=30.23W]
+[18:13:19] [DEBUG] PSU debug: total=30.18W source=components | categories[gpu=30.18W] | sensors[hwmon:amdgpu:PPT=30.18W]
+[18:13:21] [DEBUG] PSU debug: total=30.09W source=components | categories[gpu=30.09W] | sensors[hwmon:amdgpu:PPT=30.09W]
+[18:13:23] [DEBUG] PSU debug: total=31.05W source=components | categories[gpu=31.05W] | sensors[hwmon:amdgpu:PPT=31.05W]
+[18:13:25] [DEBUG] PSU debug: total=30.08W source=components | categories[gpu=30.08W] | sensors[hwmon:amdgpu:PPT=30.08W]
+[18:13:27] [DEBUG] PSU debug: total=30.08W source=components | categories[gpu=30.08W] | sensors[hwmon:amdgpu:PPT=30.08W]
+[18:13:30] [DEBUG] PSU debug: total=30.19W source=components | categories[gpu=30.19W] | sensors[hwmon:amdgpu:PPT=30.19W]
+[18:13:32] [DEBUG] PSU debug: total=37.23W source=components | categories[gpu=37.23W] | sensors[hwmon:amdgpu:PPT=37.23W]
+[18:13:34] [DEBUG] PSU debug: total=30.16W source=components | categories[gpu=30.16W] | sensors[hwmon:amdgpu:PPT=30.16W]
+[18:13:36] [DEBUG] PSU debug: total=34.01W source=components | categories[gpu=34.01W] | sensors[hwmon:amdgpu:PPT=34.01W]
+[18:13:38] [DEBUG] PSU debug: total=31.20W source=components | categories[gpu=31.20W] | sensors[hwmon:amdgpu:PPT=31.20W]
+[18:14:19] [SYSTEM] LxMonitor Console Logic Initialized
+[18:14:19] [BOOT] CppHandler1: Discovery & Linker module online.
+[18:14:19] [BOOT] CppHandler2: Execution Manager ready.
+[18:14:19] [DEBUG] Starting hardware auto-discovery...
+[18:14:19] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[18:14:19] [INFO] Hardware: GPU temperature sensor found.
+[18:14:19] [INFO] Hardware: Network interfaces detected.
+[18:14:19] [INFO] Hardware: Bluetooth adapters detected.
+[18:14:19] [INFO] Hardware: Power telemetry paths detected.
+[18:14:19] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[18:14:19] [SUCCESS] Linked engine: cpu [OK]
+[18:14:19] [SUCCESS] Linked engine: ram [OK]
+[18:14:19] [SUCCESS] Linked engine: disc [OK]
+[18:14:19] [SUCCESS] Linked engine: gpu_others [OK]
+[18:14:19] [SUCCESS] Linked engine: gpu_temp [OK]
+[18:14:19] [SUCCESS] Linked engine: net [OK]
+[18:14:19] [SUCCESS] Linked engine: bt [OK]
+[18:14:19] [SUCCESS] Linked engine: psu [OK]
+[18:14:19] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[18:14:19] [SUCCESS] Smoke check: core engines OK.
+[18:14:19] [INFO] Smoke check: cpu.get_usage OK
+[18:14:19] [INFO] Smoke check: ram.get_usage OK
+[18:14:19] [INFO] Smoke check: disc.get_all_usage OK
+[18:14:19] [INFO] Theme mode 'system' resolved to 'dark'.
+[18:14:19] [SUCCESS] Theme 'dark' applied (mode: system).
+[18:14:19] [SUCCESS] Real-time data stream started [120ms]
+[18:14:19] [INFO] Power mode 'auto' resolved to 'desktop'.
+[18:14:19] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[18:14:19] [INFO] [BOOT] System Ready.
+[18:14:19] [DEBUG] PSU debug: total=33.17W source=components | categories[gpu=33.17W] | sensors[hwmon:amdgpu:PPT=33.17W]
+[18:14:21] [DEBUG] PSU debug: total=29.22W source=components | categories[gpu=29.22W] | sensors[hwmon:amdgpu:PPT=29.22W]
+[18:14:22] [INFO] UI: Console shown.
+[18:14:23] [DEBUG] PSU debug: total=30.18W source=components | categories[gpu=30.18W] | sensors[hwmon:amdgpu:PPT=30.18W]
+[18:14:25] [DEBUG] PSU debug: total=30.05W source=components | categories[gpu=30.05W] | sensors[hwmon:amdgpu:PPT=30.05W]
+[18:14:27] [DEBUG] PSU debug: total=30.13W source=components | categories[gpu=30.13W] | sensors[hwmon:amdgpu:PPT=30.13W]
+[18:14:29] [DEBUG] PSU debug: total=32.03W source=components | categories[gpu=32.03W] | sensors[hwmon:amdgpu:PPT=32.03W]
+[18:14:32] [DEBUG] PSU debug: total=30.24W source=components | categories[gpu=30.24W] | sensors[hwmon:amdgpu:PPT=30.24W]
+[18:14:34] [DEBUG] PSU debug: total=32.12W source=components | categories[gpu=32.12W] | sensors[hwmon:amdgpu:PPT=32.12W]
+[18:14:46] [SYSTEM] LxMonitor Console Logic Initialized
+[18:14:46] [BOOT] CppHandler1: Discovery & Linker module online.
+[18:14:46] [BOOT] CppHandler2: Execution Manager ready.
+[18:14:47] [DEBUG] Starting hardware auto-discovery...
+[18:14:47] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[18:14:47] [INFO] Hardware: GPU temperature sensor found.
+[18:14:47] [INFO] Hardware: Network interfaces detected.
+[18:14:47] [INFO] Hardware: Bluetooth adapters detected.
+[18:14:47] [INFO] Hardware: Power telemetry paths detected.
+[18:14:47] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[18:14:47] [SUCCESS] Linked engine: cpu [OK]
+[18:14:47] [SUCCESS] Linked engine: ram [OK]
+[18:14:47] [SUCCESS] Linked engine: disc [OK]
+[18:14:47] [SUCCESS] Linked engine: gpu_others [OK]
+[18:14:47] [SUCCESS] Linked engine: gpu_temp [OK]
+[18:14:47] [SUCCESS] Linked engine: net [OK]
+[18:14:47] [SUCCESS] Linked engine: bt [OK]
+[18:14:47] [SUCCESS] Linked engine: psu [OK]
+[18:14:47] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[18:14:47] [SUCCESS] Smoke check: core engines OK.
+[18:14:47] [INFO] Smoke check: cpu.get_usage OK
+[18:14:47] [INFO] Smoke check: ram.get_usage OK
+[18:14:47] [INFO] Smoke check: disc.get_all_usage OK
+[18:14:47] [INFO] Theme mode 'system' resolved to 'dark'.
+[18:14:47] [SUCCESS] Theme 'dark' applied (mode: system).
+[18:14:47] [SUCCESS] Real-time data stream started [120ms]
+[18:14:47] [INFO] Power mode 'auto' resolved to 'desktop'.
+[18:14:47] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[18:14:47] [DEBUG] PSU debug: total=29.19W source=components | categories[gpu=29.19W] | sensors[hwmon:amdgpu:PPT=29.19W]
+[18:14:47] [INFO] [BOOT] System Ready.
+[18:14:49] [DEBUG] PSU debug: total=32.16W source=components | categories[gpu=32.16W] | sensors[hwmon:amdgpu:PPT=32.16W]
+[18:16:19] [SYSTEM] LxMonitor Console Logic Initialized
+[18:16:19] [BOOT] CppHandler1: Discovery & Linker module online.
+[18:16:19] [BOOT] CppHandler2: Execution Manager ready.
+[18:16:19] [DEBUG] Starting hardware auto-discovery...
+[18:16:19] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[18:16:19] [INFO] Hardware: GPU temperature sensor found.
+[18:16:19] [INFO] Hardware: Network interfaces detected.
+[18:16:19] [INFO] Hardware: Bluetooth adapters detected.
+[18:16:19] [INFO] Hardware: Power telemetry paths detected.
+[18:16:19] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[18:16:19] [SUCCESS] Linked engine: cpu [OK]
+[18:16:19] [SUCCESS] Linked engine: ram [OK]
+[18:16:19] [SUCCESS] Linked engine: disc [OK]
+[18:16:19] [SUCCESS] Linked engine: gpu_others [OK]
+[18:16:19] [SUCCESS] Linked engine: gpu_temp [OK]
+[18:16:19] [SUCCESS] Linked engine: net [OK]
+[18:16:19] [SUCCESS] Linked engine: bt [OK]
+[18:16:19] [SUCCESS] Linked engine: psu [OK]
+[18:16:19] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[18:16:19] [SUCCESS] Smoke check: core engines OK.
+[18:16:19] [INFO] Smoke check: cpu.get_usage OK
+[18:16:19] [INFO] Smoke check: ram.get_usage OK
+[18:16:19] [INFO] Smoke check: disc.get_all_usage OK
+[18:16:19] [INFO] Theme mode 'system' resolved to 'dark'.
+[18:16:19] [SUCCESS] Theme 'dark' applied (mode: system).
+[18:16:19] [SUCCESS] Real-time data stream started [120ms]
+[18:16:19] [INFO] Power mode 'auto' resolved to 'desktop'.
+[18:16:19] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[18:16:20] [DEBUG] PSU debug: total=29.19W source=components | categories[gpu=29.19W] | sensors[hwmon:amdgpu:PPT=29.19W]
+[18:16:21] [INFO] [BOOT] System Ready.
+[18:16:22] [DEBUG] PSU debug: total=31.15W source=components | categories[gpu=31.15W] | sensors[hwmon:amdgpu:PPT=31.15W]
+[18:16:24] [DEBUG] PSU debug: total=30.16W source=components | categories[gpu=30.16W] | sensors[hwmon:amdgpu:PPT=30.16W]
+[18:16:25] [INFO] UI: Console shown.
+[18:16:26] [DEBUG] PSU debug: total=32.08W source=components | categories[gpu=32.08W] | sensors[hwmon:amdgpu:PPT=32.08W]
+[18:16:28] [DEBUG] PSU debug: total=30.19W source=components | categories[gpu=30.19W] | sensors[hwmon:amdgpu:PPT=30.19W]
+[18:16:30] [DEBUG] PSU debug: total=31.18W source=components | categories[gpu=31.18W] | sensors[hwmon:amdgpu:PPT=31.18W]
+[18:16:32] [DEBUG] PSU debug: total=30.13W source=components | categories[gpu=30.13W] | sensors[hwmon:amdgpu:PPT=30.13W]
+[18:16:34] [DEBUG] PSU debug: total=30.12W source=components | categories[gpu=30.12W] | sensors[hwmon:amdgpu:PPT=30.12W]
+[18:16:36] [DEBUG] PSU debug: total=31.21W source=components | categories[gpu=31.21W] | sensors[hwmon:amdgpu:PPT=31.21W]
+[18:16:38] [DEBUG] PSU debug: total=30.17W source=components | categories[gpu=30.17W] | sensors[hwmon:amdgpu:PPT=30.17W]
+[18:16:40] [DEBUG] PSU debug: total=32.17W source=components | categories[gpu=32.17W] | sensors[hwmon:amdgpu:PPT=32.17W]
+[18:16:42] [DEBUG] PSU debug: total=31.05W source=components | categories[gpu=31.05W] | sensors[hwmon:amdgpu:PPT=31.05W]
+[18:16:45] [DEBUG] PSU debug: total=34.06W source=components | categories[gpu=34.06W] | sensors[hwmon:amdgpu:PPT=34.06W]
+[18:16:47] [DEBUG] PSU debug: total=32.13W source=components | categories[gpu=32.13W] | sensors[hwmon:amdgpu:PPT=32.13W]
+[18:16:49] [DEBUG] PSU debug: total=30.13W source=components | categories[gpu=30.13W] | sensors[hwmon:amdgpu:PPT=30.13W]
+[18:16:51] [DEBUG] PSU debug: total=32.03W source=components | categories[gpu=32.03W] | sensors[hwmon:amdgpu:PPT=32.03W]
+[18:16:53] [DEBUG] PSU debug: total=33.04W source=components | categories[gpu=33.04W] | sensors[hwmon:amdgpu:PPT=33.04W]
+[18:16:55] [DEBUG] PSU debug: total=36.02W source=components | categories[gpu=36.02W] | sensors[hwmon:amdgpu:PPT=36.02W]
+[18:16:57] [DEBUG] PSU debug: total=33.04W source=components | categories[gpu=33.04W] | sensors[hwmon:amdgpu:PPT=33.04W]
+[18:16:59] [DEBUG] PSU debug: total=33.16W source=components | categories[gpu=33.16W] | sensors[hwmon:amdgpu:PPT=33.16W]
+[18:17:01] [DEBUG] PSU debug: total=30.14W source=components | categories[gpu=30.14W] | sensors[hwmon:amdgpu:PPT=30.14W]
+[18:17:03] [DEBUG] PSU debug: total=30.03W source=components | categories[gpu=30.03W] | sensors[hwmon:amdgpu:PPT=30.03W]
+[18:17:05] [DEBUG] PSU debug: total=32.04W source=components | categories[gpu=32.04W] | sensors[hwmon:amdgpu:PPT=32.04W]
+[18:17:07] [DEBUG] PSU debug: total=32.08W source=components | categories[gpu=32.08W] | sensors[hwmon:amdgpu:PPT=32.08W]
+[18:17:09] [DEBUG] PSU debug: total=31.01W source=components | categories[gpu=31.01W] | sensors[hwmon:amdgpu:PPT=31.01W]
+[18:17:12] [DEBUG] PSU debug: total=31.18W source=components | categories[gpu=31.18W] | sensors[hwmon:amdgpu:PPT=31.18W]
+[18:17:25] [SYSTEM] LxMonitor Console Logic Initialized
+[18:17:25] [BOOT] CppHandler1: Discovery & Linker module online.
+[18:17:25] [BOOT] CppHandler2: Execution Manager ready.
+[18:17:25] [DEBUG] Starting hardware auto-discovery...
+[18:17:25] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[18:17:25] [INFO] Hardware: GPU temperature sensor found.
+[18:17:25] [INFO] Hardware: Network interfaces detected.
+[18:17:25] [INFO] Hardware: Bluetooth adapters detected.
+[18:17:25] [INFO] Hardware: Power telemetry paths detected.
+[18:17:25] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[18:17:25] [SUCCESS] Linked engine: cpu [OK]
+[18:17:25] [SUCCESS] Linked engine: ram [OK]
+[18:17:25] [SUCCESS] Linked engine: disc [OK]
+[18:17:25] [SUCCESS] Linked engine: gpu_others [OK]
+[18:17:25] [SUCCESS] Linked engine: gpu_temp [OK]
+[18:17:25] [SUCCESS] Linked engine: net [OK]
+[18:17:25] [SUCCESS] Linked engine: bt [OK]
+[18:17:25] [SUCCESS] Linked engine: psu [OK]
+[18:17:25] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[18:17:25] [SUCCESS] Smoke check: core engines OK.
+[18:17:25] [INFO] Smoke check: cpu.get_usage OK
+[18:17:25] [INFO] Smoke check: ram.get_usage OK
+[18:17:25] [INFO] Smoke check: disc.get_all_usage OK
+[18:17:25] [INFO] Theme mode 'system' resolved to 'dark'.
+[18:17:25] [SUCCESS] Theme 'dark' applied (mode: system).
+[18:17:25] [SUCCESS] Real-time data stream started [120ms]
+[18:17:25] [INFO] Power mode 'auto' resolved to 'desktop'.
+[18:17:25] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[18:17:26] [DEBUG] PSU debug: total=30.09W source=components | categories[gpu=30.09W] | sensors[hwmon:amdgpu:PPT=30.09W]
+[18:17:26] [INFO] [BOOT] System Ready.
+[18:17:28] [DEBUG] PSU debug: total=31.19W source=components | categories[gpu=31.19W] | sensors[hwmon:amdgpu:PPT=31.19W]
+[18:17:28] [INFO] UI: Console shown.
+[18:17:30] [DEBUG] PSU debug: total=31.00W source=components | categories[gpu=31.00W] | sensors[hwmon:amdgpu:PPT=31.00W]
+[18:17:32] [DEBUG] PSU debug: total=31.15W source=components | categories[gpu=31.15W] | sensors[hwmon:amdgpu:PPT=31.15W]
+[18:17:34] [DEBUG] PSU debug: total=33.25W source=components | categories[gpu=33.25W] | sensors[hwmon:amdgpu:PPT=33.25W]
+[18:17:36] [DEBUG] PSU debug: total=34.04W source=components | categories[gpu=34.04W] | sensors[hwmon:amdgpu:PPT=34.04W]
+[18:17:38] [DEBUG] PSU debug: total=30.00W source=components | categories[gpu=30.00W] | sensors[hwmon:amdgpu:PPT=30.00W]
+[18:17:40] [DEBUG] PSU debug: total=29.25W source=components | categories[gpu=29.25W] | sensors[hwmon:amdgpu:PPT=29.25W]
+[18:17:42] [DEBUG] PSU debug: total=33.07W source=components | categories[gpu=33.07W] | sensors[hwmon:amdgpu:PPT=33.07W]
+[18:17:44] [DEBUG] PSU debug: total=29.22W source=components | categories[gpu=29.22W] | sensors[hwmon:amdgpu:PPT=29.22W]
+[18:17:46] [DEBUG] PSU debug: total=37.23W source=components | categories[gpu=37.23W] | sensors[hwmon:amdgpu:PPT=37.23W]
+[18:17:48] [DEBUG] PSU debug: total=31.19W source=components | categories[gpu=31.19W] | sensors[hwmon:amdgpu:PPT=31.19W]
+[18:17:50] [DEBUG] PSU debug: total=33.04W source=components | categories[gpu=33.04W] | sensors[hwmon:amdgpu:PPT=33.04W]
+[18:17:53] [DEBUG] PSU debug: total=29.21W source=components | categories[gpu=29.21W] | sensors[hwmon:amdgpu:PPT=29.21W]
+[18:17:55] [DEBUG] PSU debug: total=31.05W source=components | categories[gpu=31.05W] | sensors[hwmon:amdgpu:PPT=31.05W]
+[18:17:57] [DEBUG] PSU debug: total=30.18W source=components | categories[gpu=30.18W] | sensors[hwmon:amdgpu:PPT=30.18W]
+[18:17:59] [DEBUG] PSU debug: total=30.21W source=components | categories[gpu=30.21W] | sensors[hwmon:amdgpu:PPT=30.21W]
+[18:18:01] [DEBUG] PSU debug: total=32.24W source=components | categories[gpu=32.24W] | sensors[hwmon:amdgpu:PPT=32.24W]
+[18:18:03] [DEBUG] PSU debug: total=30.03W source=components | categories[gpu=30.03W] | sensors[hwmon:amdgpu:PPT=30.03W]
+[18:18:05] [DEBUG] PSU debug: total=30.09W source=components | categories[gpu=30.09W] | sensors[hwmon:amdgpu:PPT=30.09W]
+[18:18:07] [DEBUG] PSU debug: total=29.18W source=components | categories[gpu=29.18W] | sensors[hwmon:amdgpu:PPT=29.18W]
+[18:18:09] [DEBUG] PSU debug: total=31.21W source=components | categories[gpu=31.21W] | sensors[hwmon:amdgpu:PPT=31.21W]
+[18:19:35] [SYSTEM] LxMonitor Console Logic Initialized
+[18:19:35] [BOOT] CppHandler1: Discovery & Linker module online.
+[18:19:35] [BOOT] CppHandler2: Execution Manager ready.
+[18:19:35] [DEBUG] Starting hardware auto-discovery...
+[18:19:35] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[18:19:35] [INFO] Hardware: GPU temperature sensor found.
+[18:19:35] [INFO] Hardware: Network interfaces detected.
+[18:19:35] [INFO] Hardware: Bluetooth adapters detected.
+[18:19:35] [INFO] Hardware: Power telemetry paths detected.
+[18:19:35] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[18:19:35] [SUCCESS] Linked engine: cpu [OK]
+[18:19:35] [SUCCESS] Linked engine: ram [OK]
+[18:19:35] [SUCCESS] Linked engine: disc [OK]
+[18:19:35] [SUCCESS] Linked engine: gpu_others [OK]
+[18:19:35] [SUCCESS] Linked engine: gpu_temp [OK]
+[18:19:35] [SUCCESS] Linked engine: net [OK]
+[18:19:35] [SUCCESS] Linked engine: bt [OK]
+[18:19:35] [SUCCESS] Linked engine: psu [OK]
+[18:19:35] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[18:19:35] [SUCCESS] Smoke check: core engines OK.
+[18:19:35] [INFO] Smoke check: cpu.get_usage OK
+[18:19:35] [INFO] Smoke check: ram.get_usage OK
+[18:19:35] [INFO] Smoke check: disc.get_all_usage OK
+[18:19:35] [INFO] Theme mode 'system' resolved to 'dark'.
+[18:19:35] [SUCCESS] Theme 'dark' applied (mode: system).
+[18:19:35] [SUCCESS] Real-time data stream started [120ms]
+[18:19:35] [INFO] Power mode 'auto' resolved to 'desktop'.
+[18:19:35] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[18:19:37] [INFO] [BOOT] System Ready.
+[18:19:38] [INFO] UI: Console shown.
+[18:19:42] [INFO] UI: Console shown.
+[18:27:34] [SYSTEM] LxMonitor Console Logic Initialized
+[18:27:34] [BOOT] CppHandler1: Discovery & Linker module online.
+[18:27:34] [BOOT] CppHandler2: Execution Manager ready.
+[18:27:34] [DEBUG] Starting hardware auto-discovery...
+[18:27:34] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[18:27:34] [INFO] Hardware: GPU temperature sensor found.
+[18:27:34] [INFO] Hardware: Network interfaces detected.
+[18:27:34] [INFO] Hardware: Bluetooth adapters detected.
+[18:27:34] [INFO] Hardware: Power telemetry paths detected.
+[18:27:34] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[18:27:34] [SUCCESS] Linked engine: cpu [OK]
+[18:27:34] [SUCCESS] Linked engine: ram [OK]
+[18:27:34] [SUCCESS] Linked engine: disc [OK]
+[18:27:34] [SUCCESS] Linked engine: gpu_others [OK]
+[18:27:34] [SUCCESS] Linked engine: gpu_temp [OK]
+[18:27:34] [SUCCESS] Linked engine: net [OK]
+[18:27:34] [SUCCESS] Linked engine: bt [OK]
+[18:27:34] [SUCCESS] Linked engine: psu [OK]
+[18:27:34] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[18:27:34] [SUCCESS] Smoke check: core engines OK.
+[18:27:34] [INFO] Smoke check: cpu.get_usage OK
+[18:27:34] [INFO] Smoke check: ram.get_usage OK
+[18:27:34] [INFO] Smoke check: disc.get_all_usage OK
+[18:27:34] [INFO] Theme mode 'system' resolved to 'dark'.
+[18:27:34] [SUCCESS] Theme 'dark' applied (mode: system).
+[18:27:34] [SUCCESS] Real-time data stream started [120ms]
+[18:27:34] [INFO] Power mode 'auto' resolved to 'desktop'.
+[18:27:34] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[18:27:34] [INFO] [BOOT] System Ready.
+[18:31:13] [SYSTEM] LxMonitor Console Logic Initialized
+[18:31:13] [BOOT] CppHandler1: Discovery & Linker module online.
+[18:31:13] [BOOT] CppHandler2: Execution Manager ready.
+[18:31:13] [DEBUG] Starting hardware auto-discovery...
+[18:31:13] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[18:31:13] [INFO] Hardware: GPU temperature sensor found.
+[18:31:13] [INFO] Hardware: Network interfaces detected.
+[18:31:13] [INFO] Hardware: Bluetooth adapters detected.
+[18:31:13] [INFO] Hardware: Power telemetry paths detected.
+[18:31:13] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[18:31:13] [SUCCESS] Linked engine: cpu [OK]
+[18:31:13] [SUCCESS] Linked engine: ram [OK]
+[18:31:13] [SUCCESS] Linked engine: disc [OK]
+[18:31:13] [SUCCESS] Linked engine: gpu_others [OK]
+[18:31:13] [SUCCESS] Linked engine: gpu_temp [OK]
+[18:31:13] [SUCCESS] Linked engine: net [OK]
+[18:31:13] [SUCCESS] Linked engine: bt [OK]
+[18:31:13] [SUCCESS] Linked engine: psu [OK]
+[18:31:13] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[18:31:13] [SUCCESS] Smoke check: core engines OK.
+[18:31:13] [INFO] Smoke check: cpu.get_usage OK
+[18:31:13] [INFO] Smoke check: ram.get_usage OK
+[18:31:13] [INFO] Smoke check: disc.get_all_usage OK
+[18:31:13] [INFO] Theme mode 'system' resolved to 'dark'.
+[18:31:13] [SUCCESS] Theme 'dark' applied (mode: system).
+[18:31:13] [SUCCESS] Real-time data stream started [120ms]
+[18:31:13] [INFO] Power mode 'auto' resolved to 'desktop'.
+[18:31:13] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[18:31:14] [INFO] [BOOT] System Ready.
+[18:37:36] [SYSTEM] LxMonitor Console Logic Initialized
+[18:37:36] [BOOT] CppHandler1: Discovery & Linker module online.
+[18:37:36] [BOOT] CppHandler2: Execution Manager ready.
+[18:37:36] [DEBUG] Starting hardware auto-discovery...
+[18:37:36] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[18:37:36] [INFO] Hardware: GPU temperature sensor found.
+[18:37:36] [INFO] Hardware: Network interfaces detected.
+[18:37:36] [INFO] Hardware: Bluetooth adapters detected.
+[18:37:36] [INFO] Hardware: Power telemetry paths detected.
+[18:37:36] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[18:37:36] [SUCCESS] Linked engine: cpu [OK]
+[18:37:36] [SUCCESS] Linked engine: ram [OK]
+[18:37:36] [SUCCESS] Linked engine: disc [OK]
+[18:37:36] [SUCCESS] Linked engine: gpu_others [OK]
+[18:37:36] [SUCCESS] Linked engine: gpu_temp [OK]
+[18:37:36] [SUCCESS] Linked engine: net [OK]
+[18:37:36] [SUCCESS] Linked engine: bt [OK]
+[18:37:36] [SUCCESS] Linked engine: psu [OK]
+[18:37:36] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[18:37:36] [SUCCESS] Smoke check: core engines OK.
+[18:37:36] [INFO] Smoke check: cpu.get_usage OK
+[18:37:36] [INFO] Smoke check: ram.get_usage OK
+[18:37:36] [INFO] Smoke check: disc.get_all_usage OK
+[18:37:36] [INFO] Theme mode 'system' resolved to 'dark'.
+[18:37:36] [SUCCESS] Theme 'dark' applied (mode: system).
+[18:37:36] [SUCCESS] Real-time data stream started [120ms]
+[18:37:36] [INFO] Power mode 'auto' resolved to 'desktop'.
+[18:37:36] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[18:37:37] [INFO] [BOOT] System Ready.
+[18:37:49] [SYSTEM] LxMonitor Console Logic Initialized
+[18:37:49] [BOOT] CppHandler1: Discovery & Linker module online.
+[18:37:49] [BOOT] CppHandler2: Execution Manager ready.
+[18:37:50] [DEBUG] Starting hardware auto-discovery...
+[18:37:50] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[18:37:50] [INFO] Hardware: GPU temperature sensor found.
+[18:37:50] [INFO] Hardware: Network interfaces detected.
+[18:37:50] [INFO] Hardware: Bluetooth adapters detected.
+[18:37:50] [INFO] Hardware: Power telemetry paths detected.
+[18:37:50] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[18:37:50] [SUCCESS] Linked engine: cpu [OK]
+[18:37:50] [SUCCESS] Linked engine: ram [OK]
+[18:37:50] [SUCCESS] Linked engine: disc [OK]
+[18:37:50] [SUCCESS] Linked engine: gpu_others [OK]
+[18:37:50] [SUCCESS] Linked engine: gpu_temp [OK]
+[18:37:50] [SUCCESS] Linked engine: net [OK]
+[18:37:50] [SUCCESS] Linked engine: bt [OK]
+[18:37:50] [SUCCESS] Linked engine: psu [OK]
+[18:37:50] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[18:37:50] [SUCCESS] Smoke check: core engines OK.
+[18:37:50] [INFO] Smoke check: cpu.get_usage OK
+[18:37:50] [INFO] Smoke check: ram.get_usage OK
+[18:37:50] [INFO] Smoke check: disc.get_all_usage OK
+[18:37:50] [INFO] Theme mode 'system' resolved to 'dark'.
+[18:37:50] [SUCCESS] Theme 'dark' applied (mode: system).
+[18:37:50] [SUCCESS] Real-time data stream started [120ms]
+[18:37:50] [INFO] Power mode 'auto' resolved to 'desktop'.
+[18:37:50] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[18:37:51] [INFO] [BOOT] System Ready.
+[18:37:59] [INFO] UI: Otwarto ustawienia.
+[18:38:04] [SUCCESS] Ustawienia: zmieniono język na System.
+[18:38:04] [INFO] Theme mode 'system' resolved to 'dark'.
+[18:38:04] [SUCCESS] Theme 'dark' applied (mode: system).
+[18:38:04] [SUCCESS] Motyw zmieniono na: Systemowy.
+[18:38:04] [INFO] Tryb zasilania ustawiony na Auto (rzeczywisty: Desktop).
+[18:38:04] [INFO] Rozszerzone szczegóły: wyłączone
+[18:38:06] [INFO] UI: Otwarto ustawienia.
+[18:38:08] [SUCCESS] Ustawienia: zmieniono język na System.
+[18:38:08] [INFO] Theme mode 'system' resolved to 'dark'.
+[18:38:08] [SUCCESS] Theme 'dark' applied (mode: system).
+[18:38:08] [SUCCESS] Motyw zmieniono na: Systemowy.
+[18:38:08] [INFO] Tryb zasilania ustawiony na Auto (rzeczywisty: Desktop).
+[18:38:08] [INFO] Rozszerzone szczegóły: włączone
+[18:38:10] [INFO] UI: Otwarto ustawienia.
+[18:38:21] [INFO] UI: Otwieranie okna O programie.

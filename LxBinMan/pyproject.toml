@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lxbinman"
+version = "0.2.0"
+description = "ABI-aware binary loader/builder for pybind11 C++ modules"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Szymon Pokrywka" }]
+license = { text = "GPL-3.0-only" }
+dependencies = ["pybind11>=2.10"]
+
+[project.scripts]
+lxbinman = "lxbinman.__main__:main"
+
+[tool.setuptools]
+packages = ["binman", "lxbinman", "moduleapi"]

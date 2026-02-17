@@ -1,0 +1,404 @@
+[11:24:29] [SYSTEM] LxMonitor Console Logic Initialized
+[11:24:29] [BOOT] CppHandler1: Discovery & Linker module online.
+[11:24:29] [BOOT] CppHandler2: Execution Manager ready.
+[11:24:29] [DEBUG] Starting hardware auto-discovery...
+[11:24:29] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[11:24:29] [INFO] Hardware: GPU temperature sensor found.
+[11:24:29] [INFO] Hardware: Network interfaces detected.
+[11:24:29] [INFO] Hardware: Bluetooth adapters detected.
+[11:24:29] [INFO] Hardware: Power telemetry paths detected.
+[11:24:29] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[11:24:29] [SUCCESS] Linked engine: cpu [OK]
+[11:24:29] [SUCCESS] Linked engine: ram [OK]
+[11:24:29] [SUCCESS] Linked engine: disc [OK]
+[11:24:29] [SUCCESS] Linked engine: gpu_others [OK]
+[11:24:29] [SUCCESS] Linked engine: gpu_temp [OK]
+[11:24:29] [SUCCESS] Linked engine: net [OK]
+[11:24:29] [SUCCESS] Linked engine: bt [OK]
+[11:24:29] [SUCCESS] Linked engine: psu [OK]
+[11:24:29] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[11:24:29] [SUCCESS] Smoke check: core engines OK.
+[11:24:29] [INFO] Smoke check: cpu.get_usage OK
+[11:24:29] [INFO] Smoke check: ram.get_usage OK
+[11:24:29] [INFO] Smoke check: disc.get_all_usage OK
+[11:24:29] [INFO] Theme mode 'system' resolved to 'dark'.
+[11:24:29] [SUCCESS] Theme 'dark' applied (mode: system).
+[11:24:29] [SUCCESS] Real-time data stream started [120ms]
+[11:24:29] [INFO] Power mode 'auto' resolved to 'desktop'.
+[11:24:29] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[11:24:30] [INFO] [BOOT] System Ready.
+[11:24:33] [INFO] UI: Console shown.
+[11:26:45] [INFO] UI: Otwieranie okna O programie.
+[11:26:56] [INFO] UI: Otwieranie okna O programie.
+[12:11:15] [SYSTEM] LxMonitor Console Logic Initialized
+[12:11:15] [BOOT] CppHandler1: Discovery & Linker module online.
+[12:11:15] [BOOT] CppHandler2: Execution Manager ready.
+[12:11:15] [DEBUG] Starting hardware auto-discovery...
+[12:11:15] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[12:11:15] [INFO] Hardware: GPU temperature sensor found.
+[12:11:15] [INFO] Hardware: Network interfaces detected.
+[12:11:15] [INFO] Hardware: Bluetooth adapters detected.
+[12:11:15] [INFO] Hardware: Power telemetry paths detected.
+[12:11:15] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[12:11:15] [SUCCESS] Linked engine: cpu [OK]
+[12:11:15] [SUCCESS] Linked engine: ram [OK]
+[12:11:15] [SUCCESS] Linked engine: disc [OK]
+[12:11:15] [SUCCESS] Linked engine: gpu_others [OK]
+[12:11:15] [SUCCESS] Linked engine: gpu_temp [OK]
+[12:11:15] [SUCCESS] Linked engine: net [OK]
+[12:11:15] [SUCCESS] Linked engine: bt [OK]
+[12:11:15] [SUCCESS] Linked engine: psu [OK]
+[12:11:15] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[12:11:15] [SUCCESS] Smoke check: core engines OK.
+[12:11:15] [INFO] Smoke check: cpu.get_usage OK
+[12:11:15] [INFO] Smoke check: ram.get_usage OK
+[12:11:15] [INFO] Smoke check: disc.get_all_usage OK
+[12:11:15] [INFO] Theme mode 'system' resolved to 'dark'.
+[12:11:15] [SUCCESS] Theme 'dark' applied (mode: system).
+[12:11:15] [SUCCESS] Real-time data stream started [120ms]
+[12:11:15] [INFO] Power mode 'auto' resolved to 'desktop'.
+[12:11:15] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[12:11:17] [INFO] [BOOT] System Ready.
+[12:17:56] [SYSTEM] LxMonitor Console Logic Initialized
+[12:17:56] [BOOT] CppHandler1: Discovery & Linker module online.
+[12:17:56] [BOOT] CppHandler2: Execution Manager ready.
+[12:17:56] [DEBUG] Starting hardware auto-discovery...
+[12:17:56] [INFO] Hardware: CPU collector ready.
+[12:17:56] [INFO] Hardware: RAM collector ready.
+[12:17:56] [INFO] Hardware: Disk collector ready.
+[12:17:56] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[12:17:56] [INFO] Hardware: GPU temperature sensor found.
+[12:17:56] [INFO] Hardware: Network interfaces detected.
+[12:17:56] [INFO] Hardware: Bluetooth adapters detected.
+[12:17:56] [INFO] Hardware: Power telemetry paths detected.
+[12:17:56] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[12:17:56] [SUCCESS] Linked engine: cpu [OK]
+[12:17:56] [SUCCESS] Linked engine: ram [OK]
+[12:17:56] [SUCCESS] Linked engine: disc [OK]
+[12:17:56] [SUCCESS] Linked engine: gpu_others [OK]
+[12:17:56] [SUCCESS] Linked engine: gpu_temp [OK]
+[12:17:56] [SUCCESS] Linked engine: net [OK]
+[12:17:56] [SUCCESS] Linked engine: bt [OK]
+[12:17:56] [SUCCESS] Linked engine: psu [OK]
+[12:17:56] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[12:17:56] [SUCCESS] Smoke check: core engines OK.
+[12:17:56] [INFO] Smoke check: cpu.get_usage OK
+[12:17:56] [INFO] Smoke check: ram.get_usage OK
+[12:17:56] [INFO] Smoke check: disc.get_all_usage OK
+[12:17:56] [INFO] Theme mode 'system' resolved to 'dark'.
+[12:17:56] [SUCCESS] Theme 'dark' applied (mode: system).
+[12:17:56] [SUCCESS] Real-time data stream started [120ms]
+[12:17:56] [INFO] Power mode 'auto' resolved to 'desktop'.
+[12:17:56] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[12:17:57] [INFO] [BOOT] System Ready.
+[12:20:20] [SYSTEM] LxMonitor Console Logic Initialized
+[12:20:20] [BOOT] CppHandler1: Discovery & Linker module online.
+[12:20:20] [BOOT] CppHandler2: Execution Manager ready.
+[12:20:20] [DEBUG] Starting hardware auto-discovery...
+[12:20:20] [INFO] Hardware: CPU collector ready.
+[12:20:20] [INFO] Hardware: RAM collector ready.
+[12:20:20] [INFO] Hardware: Disk collector ready.
+[12:20:20] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[12:20:20] [INFO] Hardware: GPU temperature sensor found.
+[12:20:20] [INFO] Hardware: Network interfaces detected.
+[12:20:20] [INFO] Hardware: Bluetooth adapters detected.
+[12:20:20] [INFO] Hardware: Power telemetry paths detected.
+[12:20:20] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[12:20:20] [SUCCESS] Linked engine: cpu [OK]
+[12:20:20] [SUCCESS] Linked engine: ram [OK]
+[12:20:20] [SUCCESS] Linked engine: disc [OK]
+[12:20:20] [SUCCESS] Linked engine: gpu_others [OK]
+[12:20:20] [SUCCESS] Linked engine: gpu_temp [OK]
+[12:20:20] [SUCCESS] Linked engine: net [OK]
+[12:20:20] [SUCCESS] Linked engine: bt [OK]
+[12:20:20] [SUCCESS] Linked engine: psu [OK]
+[12:20:20] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[12:20:20] [SUCCESS] Smoke check: core engines OK.
+[12:20:20] [INFO] Smoke check: cpu.get_usage OK
+[12:20:20] [INFO] Smoke check: ram.get_usage OK
+[12:20:20] [INFO] Smoke check: disc.get_all_usage OK
+[12:20:20] [INFO] Theme mode 'system' resolved to 'dark'.
+[12:20:20] [SUCCESS] Theme 'dark' applied (mode: system).
+[12:20:20] [SUCCESS] Real-time data stream started [120ms]
+[12:20:20] [INFO] Power mode 'auto' resolved to 'desktop'.
+[12:20:20] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[12:20:20] [INFO] [BOOT] System Ready.
+[12:23:10] [SYSTEM] LxMonitor Console Logic Initialized
+[12:23:10] [BOOT] CppHandler1: Discovery & Linker module online.
+[12:23:10] [BOOT] CppHandler2: Execution Manager ready.
+[12:23:10] [DEBUG] Starting hardware auto-discovery...
+[12:23:10] [INFO] Hardware: CPU collector ready.
+[12:23:10] [INFO] Hardware: RAM collector ready.
+[12:23:10] [INFO] Hardware: Disk collector ready.
+[12:23:10] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[12:23:10] [INFO] Hardware: GPU temperature sensor found.
+[12:23:10] [INFO] Hardware: Network interfaces detected.
+[12:23:10] [INFO] Hardware: Bluetooth adapters detected.
+[12:23:10] [INFO] Hardware: Power telemetry paths detected.
+[12:23:10] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[12:23:10] [SUCCESS] Linked engine: cpu [OK]
+[12:23:10] [SUCCESS] Linked engine: ram [OK]
+[12:23:10] [SUCCESS] Linked engine: disc [OK]
+[12:23:10] [SUCCESS] Linked engine: gpu_others [OK]
+[12:23:10] [SUCCESS] Linked engine: gpu_temp [OK]
+[12:23:10] [SUCCESS] Linked engine: net [OK]
+[12:23:10] [SUCCESS] Linked engine: bt [OK]
+[12:23:10] [SUCCESS] Linked engine: psu [OK]
+[12:23:10] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[12:23:10] [SUCCESS] Smoke check: core engines OK.
+[12:23:10] [INFO] Smoke check: cpu.get_usage OK
+[12:23:10] [INFO] Smoke check: ram.get_usage OK
+[12:23:10] [INFO] Smoke check: disc.get_all_usage OK
+[12:23:10] [INFO] Theme mode 'system' resolved to 'dark'.
+[12:23:10] [SUCCESS] Theme 'dark' applied (mode: system).
+[12:23:10] [SUCCESS] Real-time data stream started [120ms]
+[12:23:10] [INFO] Power mode 'auto' resolved to 'desktop'.
+[12:23:10] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[12:23:11] [INFO] [BOOT] System Ready.
+[12:29:24] [SYSTEM] LxMonitor Console Logic Initialized
+[12:29:24] [BOOT] CppHandler1: Discovery & Linker module online.
+[12:29:24] [BOOT] CppHandler2: Execution Manager ready.
+[12:29:24] [DEBUG] Starting hardware auto-discovery...
+[12:29:24] [INFO] Hardware: CPU collector ready.
+[12:29:24] [INFO] Hardware: RAM collector ready.
+[12:29:24] [INFO] Hardware: Disk collector ready.
+[12:29:24] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[12:29:24] [INFO] Hardware: GPU temperature sensor found.
+[12:29:24] [INFO] Hardware: Network interfaces detected.
+[12:29:24] [INFO] Hardware: Bluetooth adapters detected.
+[12:29:24] [INFO] Hardware: Power telemetry paths detected.
+[12:29:24] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[12:29:24] [SUCCESS] Linked engine: cpu [OK]
+[12:29:24] [SUCCESS] Linked engine: ram [OK]
+[12:29:24] [SUCCESS] Linked engine: disc [OK]
+[12:29:24] [SUCCESS] Linked engine: gpu_others [OK]
+[12:29:24] [SUCCESS] Linked engine: gpu_temp [OK]
+[12:29:24] [SUCCESS] Linked engine: net [OK]
+[12:29:24] [SUCCESS] Linked engine: bt [OK]
+[12:29:24] [SUCCESS] Linked engine: psu [OK]
+[12:29:24] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[12:29:24] [SUCCESS] Smoke check: core engines OK.
+[12:29:24] [INFO] Smoke check: cpu.get_usage OK
+[12:29:24] [INFO] Smoke check: ram.get_usage OK
+[12:29:24] [INFO] Smoke check: disc.get_all_usage OK
+[12:29:24] [INFO] Theme mode 'system' resolved to 'dark'.
+[12:29:24] [SUCCESS] Theme 'dark' applied (mode: system).
+[12:29:24] [SUCCESS] Real-time data stream started [120ms]
+[12:29:24] [INFO] Power mode 'auto' resolved to 'desktop'.
+[12:29:24] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[12:29:24] [INFO] [BOOT] System Ready.
+[12:29:27] [INFO] UI: Otwarto ustawienia.
+[12:29:31] [SUCCESS] Linked engine: privilege [OK]
+[12:29:31] [INFO] Uprawnienia wymagają hasła systemowego.
+[12:29:33] [SUCCESS] Raport diagnostyczny skopiowany do schowka.
+[12:30:00] [SUCCESS] Ustawienia: zmieniono język na System.
+[12:30:00] [INFO] Theme mode 'system' resolved to 'dark'.
+[12:30:00] [SUCCESS] Theme 'dark' applied (mode: system).
+[12:30:00] [SUCCESS] Motyw zmieniono na: Systemowy.
+[12:30:00] [INFO] Tryb zasilania ustawiony na Auto (rzeczywisty: Desktop).
+[12:30:00] [INFO] Rozszerzone szczegóły: włączone
+[12:30:00] [SUCCESS] Real-time data stream started [250ms]
+[12:30:00] [INFO] Tryb bezpieczny: włączone
+[12:30:00] [SUCCESS] Real-time data stream started [250ms]
+[12:30:00] [INFO] Ustawiono interwał odświeżania: 250 ms.
+[12:30:12] [INFO] UI: Otwarto ustawienia.
+[12:30:17] [SUCCESS] Ustawienia: zmieniono język na System.
+[12:30:17] [INFO] Theme mode 'system' resolved to 'dark'.
+[12:30:17] [SUCCESS] Theme 'dark' applied (mode: system).
+[12:30:17] [SUCCESS] Motyw zmieniono na: Systemowy.
+[12:30:17] [INFO] Tryb zasilania ustawiony na Auto (rzeczywisty: Desktop).
+[12:30:17] [INFO] Rozszerzone szczegóły: włączone
+[12:30:17] [SUCCESS] Real-time data stream started [250ms]
+[12:30:17] [INFO] Tryb bezpieczny: włączone
+[12:30:17] [SUCCESS] Real-time data stream started [1000ms]
+[12:30:17] [INFO] Ustawiono interwał odświeżania: 1000 ms.
+[12:30:20] [INFO] UI: Otwarto ustawienia.
+[12:30:23] [SUCCESS] Ustawienia: zmieniono język na System.
+[12:30:23] [INFO] Theme mode 'system' resolved to 'dark'.
+[12:30:23] [SUCCESS] Theme 'dark' applied (mode: system).
+[12:30:23] [SUCCESS] Motyw zmieniono na: Systemowy.
+[12:30:23] [INFO] Tryb zasilania ustawiony na Auto (rzeczywisty: Desktop).
+[12:30:23] [INFO] Rozszerzone szczegóły: włączone
+[12:30:23] [SUCCESS] Real-time data stream started [1000ms]
+[12:30:23] [INFO] Tryb bezpieczny: włączone
+[12:30:23] [SUCCESS] Real-time data stream started [250ms]
+[12:30:23] [INFO] Ustawiono interwał odświeżania: 250 ms.
+[12:30:26] [INFO] UI: Otwarto ustawienia.
+[12:30:29] [SUCCESS] Ustawienia: zmieniono język na System.
+[12:30:29] [INFO] Theme mode 'system' resolved to 'dark'.
+[12:30:29] [SUCCESS] Theme 'dark' applied (mode: system).
+[12:30:29] [SUCCESS] Motyw zmieniono na: Systemowy.
+[12:30:29] [INFO] Tryb zasilania ustawiony na Auto (rzeczywisty: Desktop).
+[12:30:29] [INFO] Rozszerzone szczegóły: włączone
+[12:30:29] [SUCCESS] Real-time data stream started [250ms]
+[12:30:29] [INFO] Tryb bezpieczny: włączone
+[12:30:29] [SUCCESS] Real-time data stream started [250ms]
+[12:30:29] [INFO] Ustawiono interwał odświeżania: 250 ms.
+[12:30:31] [INFO] UI: Otwarto ustawienia.
+[12:32:07] [SYSTEM] LxMonitor Console Logic Initialized
+[12:32:07] [BOOT] CppHandler1: Discovery & Linker module online.
+[12:32:07] [BOOT] CppHandler2: Execution Manager ready.
+[12:32:07] [DEBUG] Starting hardware auto-discovery...
+[12:32:07] [INFO] Hardware: CPU collector ready.
+[12:32:07] [INFO] Hardware: RAM collector ready.
+[12:32:07] [INFO] Hardware: Disk collector ready.
+[12:32:07] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[12:32:07] [INFO] Hardware: GPU temperature sensor found.
+[12:32:07] [INFO] Hardware: Network interfaces detected.
+[12:32:07] [INFO] Hardware: Bluetooth adapters detected.
+[12:32:07] [INFO] Hardware: Power telemetry paths detected.
+[12:32:07] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[12:32:07] [SUCCESS] Linked engine: cpu [OK]
+[12:32:07] [SUCCESS] Linked engine: ram [OK]
+[12:32:07] [SUCCESS] Linked engine: disc [OK]
+[12:32:07] [SUCCESS] Linked engine: gpu_others [OK]
+[12:32:07] [SUCCESS] Linked engine: gpu_temp [OK]
+[12:32:07] [SUCCESS] Linked engine: net [OK]
+[12:32:07] [SUCCESS] Linked engine: bt [OK]
+[12:32:07] [SUCCESS] Linked engine: psu [OK]
+[12:32:07] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[12:32:07] [SUCCESS] Smoke check: core engines OK.
+[12:32:07] [INFO] Smoke check: cpu.get_usage OK
+[12:32:07] [INFO] Smoke check: ram.get_usage OK
+[12:32:07] [INFO] Smoke check: disc.get_all_usage OK
+[12:32:07] [INFO] Theme mode 'system' resolved to 'dark'.
+[12:32:07] [SUCCESS] Theme 'dark' applied (mode: system).
+[12:32:07] [SUCCESS] Real-time data stream started [250ms]
+[12:32:07] [INFO] Power mode 'auto' resolved to 'desktop'.
+[12:32:07] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[12:32:07] [INFO] [BOOT] System Ready.
+[12:32:18] [INFO] UI: Otwarto ustawienia.
+[12:32:27] [SUCCESS] Zapisano raport kompatybilności: /home/Nefiu/Pulpit/lxmonitor-compat-20260217-123219.json
+[12:35:10] [SYSTEM] LxMonitor Console Logic Initialized
+[12:35:10] [BOOT] CppHandler1: Discovery & Linker module online.
+[12:35:10] [BOOT] CppHandler2: Execution Manager ready.
+[12:35:10] [DEBUG] Starting hardware auto-discovery...
+[12:35:10] [INFO] Hardware: CPU collector ready.
+[12:35:10] [INFO] Hardware: RAM collector ready.
+[12:35:10] [INFO] Hardware: Disk collector ready.
+[12:35:10] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[12:35:10] [INFO] Hardware: GPU temperature sensor found.
+[12:35:10] [INFO] Hardware: Network interfaces detected.
+[12:35:10] [INFO] Hardware: Bluetooth adapters detected.
+[12:35:10] [INFO] Hardware: Power telemetry paths detected.
+[12:35:10] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[12:35:10] [SUCCESS] Linked engine: cpu [OK]
+[12:35:10] [SUCCESS] Linked engine: ram [OK]
+[12:35:10] [SUCCESS] Linked engine: disc [OK]
+[12:35:10] [SUCCESS] Linked engine: gpu_others [OK]
+[12:35:10] [SUCCESS] Linked engine: gpu_temp [OK]
+[12:35:10] [SUCCESS] Linked engine: net [OK]
+[12:35:10] [SUCCESS] Linked engine: bt [OK]
+[12:35:10] [SUCCESS] Linked engine: psu [OK]
+[12:35:10] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[12:35:10] [SUCCESS] Smoke check: core engines OK.
+[12:35:10] [INFO] Smoke check: cpu.get_usage OK
+[12:35:10] [INFO] Smoke check: ram.get_usage OK
+[12:35:10] [INFO] Smoke check: disc.get_all_usage OK
+[12:35:10] [INFO] Theme mode 'system' resolved to 'dark'.
+[12:35:10] [SUCCESS] Theme 'dark' applied (mode: system).
+[12:35:10] [SUCCESS] Real-time data stream started [250ms]
+[12:35:10] [INFO] Power mode 'auto' resolved to 'desktop'.
+[12:35:10] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[12:35:11] [INFO] [BOOT] System Ready.
+[12:35:14] [INFO] UI: Otwarto ustawienia.
+[12:35:22] [SUCCESS] Zapisano raport kompatybilności: /home/Nefiu/Pulpit/lxmonitor-compat-20260217-123515.json
+[12:37:37] [SYSTEM] LxMonitor Console Logic Initialized
+[12:37:37] [BOOT] CppHandler1: Discovery & Linker module online.
+[12:37:37] [BOOT] CppHandler2: Execution Manager ready.
+[12:37:37] [DEBUG] Starting hardware auto-discovery...
+[12:37:37] [INFO] Hardware: CPU collector ready.
+[12:37:37] [INFO] Hardware: RAM collector ready.
+[12:37:37] [INFO] Hardware: Disk collector ready.
+[12:37:37] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[12:37:37] [INFO] Hardware: GPU temperature sensor found.
+[12:37:37] [INFO] Hardware: Network interfaces detected.
+[12:37:37] [INFO] Hardware: Bluetooth adapters detected.
+[12:37:37] [INFO] Hardware: Power telemetry paths detected.
+[12:37:37] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[12:37:37] [SUCCESS] Linked engine: cpu [OK]
+[12:37:37] [SUCCESS] Linked engine: ram [OK]
+[12:37:37] [SUCCESS] Linked engine: disc [OK]
+[12:37:37] [SUCCESS] Linked engine: gpu_others [OK]
+[12:37:37] [SUCCESS] Linked engine: gpu_temp [OK]
+[12:37:37] [SUCCESS] Linked engine: net [OK]
+[12:37:37] [SUCCESS] Linked engine: bt [OK]
+[12:37:37] [SUCCESS] Linked engine: psu [OK]
+[12:37:37] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[12:37:37] [SUCCESS] Smoke check: core engines OK.
+[12:37:37] [INFO] Smoke check: cpu.get_usage OK
+[12:37:37] [INFO] Smoke check: ram.get_usage OK
+[12:37:37] [INFO] Smoke check: disc.get_all_usage OK
+[12:37:37] [INFO] Theme mode 'system' resolved to 'dark'.
+[12:37:37] [SUCCESS] Theme 'dark' applied (mode: system).
+[12:37:37] [SUCCESS] Real-time data stream started [250ms]
+[12:37:37] [INFO] Power mode 'auto' resolved to 'desktop'.
+[12:37:37] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[12:37:38] [INFO] [BOOT] System Ready.
+[12:37:51] [INFO] UI: Otwarto ustawienia.
+[12:39:13] [SYSTEM] LxMonitor Console Logic Initialized
+[12:39:13] [BOOT] CppHandler1: Discovery & Linker module online.
+[12:39:13] [BOOT] CppHandler2: Execution Manager ready.
+[12:39:13] [DEBUG] Starting hardware auto-discovery...
+[12:39:13] [INFO] Hardware: CPU collector ready.
+[12:39:13] [INFO] Hardware: RAM collector ready.
+[12:39:13] [INFO] Hardware: Disk collector ready.
+[12:39:13] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[12:39:13] [INFO] Hardware: GPU temperature sensor found.
+[12:39:13] [INFO] Hardware: Network interfaces detected.
+[12:39:13] [INFO] Hardware: Bluetooth adapters detected.
+[12:39:13] [INFO] Hardware: Power telemetry paths detected.
+[12:39:13] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[12:39:13] [SUCCESS] Linked engine: cpu [OK]
+[12:39:13] [SUCCESS] Linked engine: ram [OK]
+[12:39:13] [SUCCESS] Linked engine: disc [OK]
+[12:39:13] [SUCCESS] Linked engine: gpu_others [OK]
+[12:39:13] [SUCCESS] Linked engine: gpu_temp [OK]
+[12:39:13] [SUCCESS] Linked engine: net [OK]
+[12:39:13] [SUCCESS] Linked engine: bt [OK]
+[12:39:13] [SUCCESS] Linked engine: psu [OK]
+[12:39:13] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[12:39:13] [SUCCESS] Smoke check: core engines OK.
+[12:39:13] [INFO] Smoke check: cpu.get_usage OK
+[12:39:13] [INFO] Smoke check: ram.get_usage OK
+[12:39:13] [INFO] Smoke check: disc.get_all_usage OK
+[12:39:13] [INFO] Theme mode 'system' resolved to 'dark'.
+[12:39:13] [SUCCESS] Theme 'dark' applied (mode: system).
+[12:39:13] [SUCCESS] Real-time data stream started [250ms]
+[12:39:13] [INFO] Power mode 'auto' resolved to 'desktop'.
+[12:39:13] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[12:39:13] [INFO] [BOOT] System Ready.
+[12:39:15] [INFO] UI: Otwarto ustawienia.
+[12:39:58] [INFO] UI: Console shown.
+[12:40:19] [INFO] UI: Otwarto ustawienia.
+[17:02:36] [SYSTEM] LxMonitor Console Logic Initialized
+[17:02:36] [BOOT] CppHandler1: Discovery & Linker module online.
+[17:02:36] [BOOT] CppHandler2: Execution Manager ready.
+[17:02:36] [INFO] Hardware: CPU collector ready.
+[17:02:36] [INFO] Hardware: RAM collector ready.
+[17:02:36] [INFO] Hardware: Disk collector ready.
+[17:02:36] [INFO] Hardware: Generic GPU (AMD/Intel) found via DRM card0.
+[17:02:36] [INFO] Hardware: GPU temperature sensor found.
+[17:02:36] [INFO] Hardware: Network interfaces detected.
+[17:02:36] [INFO] Hardware: Bluetooth adapters detected.
+[17:02:36] [INFO] Hardware: Power telemetry paths detected.
+[17:02:36] [SUCCESS] Discovery complete. Target engines: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[17:02:36] [SUCCESS] Linked engine: cpu [OK]
+[17:02:36] [SUCCESS] Linked engine: ram [OK]
+[17:02:36] [SUCCESS] Linked engine: disc [OK]
+[17:02:36] [SUCCESS] Linked engine: gpu_others [OK]
+[17:02:36] [SUCCESS] Linked engine: gpu_temp [OK]
+[17:02:36] [SUCCESS] Linked engine: net [OK]
+[17:02:36] [SUCCESS] Linked engine: bt [OK]
+[17:02:36] [SUCCESS] Linked engine: psu [OK]
+[17:02:36] [INFO] Monitoring active for: cpu, ram, disc, gpu_others, gpu_temp, net, bt, psu
+[17:02:36] [SUCCESS] Smoke check: core engines OK.
+[17:02:36] [INFO] Smoke check: cpu.get_usage OK
+[17:02:36] [INFO] Smoke check: ram.get_usage OK
+[17:02:36] [INFO] Smoke check: disc.get_all_usage OK
+[17:02:36] [INFO] Theme mode 'system' resolved to 'dark'.
+[17:02:36] [SUCCESS] Theme 'dark' applied (mode: system).
+[17:02:36] [SUCCESS] Real-time data stream started [250ms]
+[17:02:36] [INFO] Power mode 'auto' resolved to 'desktop'.
+[17:02:36] [SUCCESS] LxMonitor UI: Ready and Monitoring.
+[17:02:36] [INFO] [BOOT] System Ready.

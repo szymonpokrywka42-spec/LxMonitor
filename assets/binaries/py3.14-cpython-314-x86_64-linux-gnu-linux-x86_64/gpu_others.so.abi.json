@@ -1,0 +1,13 @@
+{
+  "python_version": "3.14",
+  "python_soabi": "cpython-314-x86_64-linux-gnu",
+  "system": "linux",
+  "machine": "x86_64",
+  "build_signature": {
+    "source_sha256": "cf4a9da5378c2c0c29a3af1bd045642c7cc774b9e52a0caa2792ef9c867ea4d5",
+    "compiler": "g++",
+    "cxx_std": "c++17",
+    "extra_compile_args": [],
+    "extra_link_args": []
+  }
+}

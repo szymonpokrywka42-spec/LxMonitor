@@ -1,0 +1,155 @@
+QMainWindow, QWidget {
+    background-color: #0f111a;
+    color: #e6e6e6;
+}
+
+#central_widget {
+    background: qlineargradient(
+        x1:0, y1:0, x2:1, y2:1,
+        stop:0 #0d1119,
+        stop:0.55 #0a0f18,
+        stop:1 #0f1723
+    );
+}
+
+#dashboard {
+    background: transparent;
+}
+
+#sidebarContent {
+    background: rgba(14, 20, 31, 0.78);
+    border: 1px solid #263248;
+    border-radius: 10px;
+}
+
+#mainPanel {
+    background: rgba(12, 18, 28, 0.55);
+    border: 1px solid #2a3750;
+    border-radius: 10px;
+}
+
+#panelSeparatorV,
+#panelSeparatorH {
+    background-color: #334566;
+    color: #334566;
+    border: none;
+}
+
+#MainToolbar {
+    background-color: rgba(20, 27, 39, 0.92);
+    border-bottom: 1px solid #2e3a50;
+}
+
+QPushButton#toolbarButton {
+    color: #d7e4f2;
+    background-color: #202a3b;
+    border: 1px solid #344463;
+    border-radius: 6px;
+    padding: 6px 12px;
+    font-size: 12px;
+    font-family: "Noto Sans", "Segoe UI", sans-serif;
+}
+
+QPushButton#toolbarButton:hover {
+    background-color: #2d3b54;
+    border: 1px solid #4f6a97;
+}
+
+QDialog#SettingsDialog,
+QDialog#ConsoleDialog,
+QDialog#AboutDialog {
+    background-color: #111522;
+    color: #e6e6e6;
+    border: 1px solid #2f3b54;
+}
+
+QToolTip {
+    background-color: #141b2b;
+    color: #dbe7f6;
+    border: 1px solid #344463;
+}
+
+QPushButton {
+    background-color: #202a3b;
+    color: #d7e4f2;
+    border: 1px solid #344463;
+    border-radius: 6px;
+    padding: 6px 12px;
+}
+
+QPushButton:hover {
+    background-color: #2d3b54;
+    border: 1px solid #4f6a97;
+}
+
+QLineEdit,
+QTextEdit,
+QComboBox {
+    background-color: #101725;
+    color: #eaf2ff;
+    border: 1px solid #30415f;
+    border-radius: 4px;
+    selection-background-color: #35507a;
+}
+
+QComboBox QAbstractItemView {
+    background-color: #11192a;
+    color: #eaf2ff;
+    border: 1px solid #30415f;
+    selection-background-color: #2d466b;
+    selection-color: #ffffff;
+}
+
+QTextEdit#ConsoleDisplay {
+    background-color: #0b1019;
+    border: 1px solid #30415f;
+}
+
+QLineEdit#ConsoleInput {
+    background-color: #101725;
+    border: 1px solid #30415f;
+}
+
+QFrame#metricCard {
+    background: rgba(21, 28, 40, 0.92);
+    border: 1px solid #2b3650;
+    border-radius: 8px;
+}
+
+QFrame#metricCard:hover {
+    background: rgba(30, 41, 58, 0.97);
+    border: 1px solid #4a5f87;
+}
+
+QFrame#metricCardActive {
+    background: rgba(35, 48, 68, 0.99);
+    border: 2px solid #63c3e6;
+    border-radius: 8px;
+}
+
+QScrollBar:vertical {
+    background: #131c2c;
+    width: 10px;
+    margin: 2px;
+    border-radius: 5px;
+}
+
+QScrollBar::handle:vertical {
+    background: #3a4a69;
+    min-height: 20px;
+    border-radius: 5px;
+}
+
+QScrollBar::handle:vertical:hover {
+    background: #4d6289;
+}
+
+QScrollBar::add-line:vertical,
+QScrollBar::sub-line:vertical {
+    height: 0;
+}
+
+QScrollBar::add-page:vertical,
+QScrollBar::sub-page:vertical {
+    background: transparent;
+}

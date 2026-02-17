@@ -1,0 +1,25 @@
+{
+  "runtime": {
+    "python_version": "3.14",
+    "python_soabi": "cpython-314-x86_64-linux-gnu",
+    "system": "linux",
+    "machine": "x86_64"
+  },
+  "platform": {
+    "system": "linux",
+    "release": "6.18.10-200.fc43.x86_64",
+    "machine": "x86_64"
+  },
+  "python": {
+    "path": "/usr/bin/python3",
+    "version": "Python 3.14.2"
+  },
+  "compiler": {
+    "path": "/usr/bin/g++",
+    "version": "g++ (GCC) 15.2.1 20260123 (Red Hat 15.2.1-7)"
+  },
+  "js_runtime": {
+    "path": "",
+    "version": ""
+  }
+}

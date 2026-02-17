@@ -1,0 +1,13 @@
+{
+  "python_version": "3.13",
+  "python_soabi": "cpython-313-x86_64-linux-gnu",
+  "system": "linux",
+  "machine": "x86_64",
+  "build_signature": {
+    "source_sha256": "486cca7429c376dcea040b030ee0a26f485abf3118923c7fe15fa05aef527c9c",
+    "compiler": "g++",
+    "cxx_std": "c++17",
+    "extra_compile_args": [],
+    "extra_link_args": []
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "include": [
+    "."
+  ],
+  "exclude": [
+    "**/__pycache__",
+    "LxMonitor_backup",
+    "build",
+    "dist"
+  ],
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "extraPaths": [
+        "./LxBinMan"
+      ]
+    }
+  ]
+}

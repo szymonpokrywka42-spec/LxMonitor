@@ -1,0 +1,25 @@
+{
+  "runtime": {
+    "python_version": "3.13",
+    "python_soabi": "cpython-313-x86_64-linux-gnu",
+    "system": "linux",
+    "machine": "x86_64"
+  },
+  "platform": {
+    "system": "linux",
+    "release": "6.18.10-200.fc43.x86_64",
+    "machine": "x86_64"
+  },
+  "python": {
+    "path": "/bin/python",
+    "version": "Python 3.13.11"
+  },
+  "compiler": {
+    "path": "/usr/bin/g++",
+    "version": "g++ (GCC) 15.2.0"
+  },
+  "js_runtime": {
+    "path": "",
+    "version": ""
+  }
+}

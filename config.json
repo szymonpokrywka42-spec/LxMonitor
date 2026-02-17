@@ -1,0 +1,13 @@
+{
+  "config_version": 2,
+  "release_mode": false,
+  "language": "system",
+  "theme": "system",
+  "power_mode": "auto",
+  "splash_min_seconds": 2,
+  "advanced_details": true,
+  "safe_mode": true,
+  "safe_mode_auto": true,
+  "log_profile": "normal",
+  "poll_interval_ms": 250
+}
